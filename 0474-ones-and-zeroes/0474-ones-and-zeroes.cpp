@@ -30,10 +30,28 @@ int helper(int idx,int n,int m,vector<int>&one,vector<int>&zero,vector<vector<ve
             one.push_back(cnt1);
             zero.push_back(cnt2);
         }
+ vector<vector<vector<int>>>dp(sz,vector<vector<int>>(n+1,vector<int>(m+1,0)));
+        for(int idx=0;idx<sz;idx++){
+            for(int curr_n=0;curr_n<=n;curr_n++){
+                for(int curr_m=0;curr_m<=m;curr_m++){
+                    //take it
+                    int op1=0;
+                    // cout<<idx<<" "<<curr_n<<" "<<curr_m<<endl;
+                    if(curr_n>=one[idx]&&curr_m>=zero[idx]){
+                        op1=(idx>0)?dp[idx-1][curr_n-one[idx]][curr_m-zero[idx]]:0;
+                        op1+=1;
+                    }
+                    //    cout<<idx<<" "<<curr_n<<" "<<curr_m<<endl;
+                    int op2=(idx>0)?dp[idx-1][curr_n][curr_m]:0;
 
-        vector<vector<vector<int>>>dp(sz,vector<vector<int>>(n+1,vector<int>(m+1,-1)));
+                    dp[idx][curr_n][curr_m]=max(op1,op2);
+                }
+            }
+        }
 
-            int ans=helper(sz-1,n,m,one,zero,dp);
+       
+
+            int ans=dp[sz-1][n][m];
             return ans;
         }
         
