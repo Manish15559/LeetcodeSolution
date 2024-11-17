@@ -13,4 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
+## Math
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
