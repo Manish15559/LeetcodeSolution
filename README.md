@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 ## String
 |  |
 | ------- |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 ## Stack
 |  |
 | ------- |
