@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [1250-longest-common-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/1250-longest-common-subsequence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [1250-longest-common-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/1250-longest-common-subsequence) |
 | [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
 ## Math
 |  |
