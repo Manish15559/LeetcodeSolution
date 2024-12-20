@@ -26,9 +26,16 @@ return dp[idx]=mini;
 }
     int minCut(string s) {
 
-        vector<int>dp(s.size(),-1);
+        vector<int>dp(s.size()+1,0);
+        for(int idx=s.size()-1;idx>=0;idx--){
+            int mini=1e9;
+            for(int right=idx;right<s.size();right++){
+                if(isPalindrome(idx,right,s)) mini=min(mini,1+dp[right+1]);
+            }
+            dp[idx]=mini;
+        }
         
 
-        return helper(0,s,dp)-1;
+        return dp[0]-1;
     }
 };
