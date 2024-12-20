@@ -25,17 +25,18 @@ int helper(int idx,string &s,vector<int>&dp){
 return dp[idx]=mini;
 }
     int minCut(string s) {
+        int n=s.size();
 
-        vector<int>dp(s.size()+1,0);
-        for(int idx=s.size()-1;idx>=0;idx--){
-            int mini=1e9;
-            for(int right=idx;right<s.size();right++){
-                if(isPalindrome(idx,right,s)) mini=min(mini,1+dp[right+1]);
-            }
-            dp[idx]=mini;
+        vector<int>dp(n+1,0);
+      for(int idx=1;idx<=n;idx++){
+        int mini=1e9;
+        for(int left=idx;left>=1;left--){
+            if(isPalindrome(left-1,idx-1,s)==true) mini=min(mini,1+dp[left-1]);
         }
+        dp[idx]=mini;
+      }
         
 
-        return dp[0]-1;
+        return dp[n]-1;
     }
 };
