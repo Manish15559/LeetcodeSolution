@@ -9,21 +9,8 @@ bool isPalindrome(int l,int r,string &str){
     return true;
 
 }
-int helper(int idx,string &s,vector<int>&dp){
-    if(idx==s.size()) return 0;
 
-    if(dp[idx]!=-1) return dp[idx];
- int mini=1e9;
 
-    for(int right=idx;right<s.size();right++){
-      
-        if(isPalindrome(idx,right,s)==true){
-            mini=min(mini,1+helper(right+1,s,dp));
-        }
-    }
-   
-return dp[idx]=mini;
-}
     int minCut(string s) {
         int n=s.size();
 
