@@ -23,7 +23,7 @@ public:
         // Create a queue to perform level-order
         // traversal, where each element is a pair
         // of TreeNode* and its position in the level
-        queue<pair<TreeNode*, int>> q;
+        queue<pair<TreeNode*, long long>> q;
         // Push the root node and its
         // position (0) into the queue
         q.push({root, 0});
@@ -46,7 +46,7 @@ public:
             for (int i = 0; i < size; i++) {
                 // Calculate current position relative
                 // to the minimum position in the level
-                int cur_id = q.front().second - mmin;
+                long long cur_id = q.front().second - mmin;
                 // Get the current node
                 TreeNode* node = q.front().first;
                 // Pop the front node from the queue
