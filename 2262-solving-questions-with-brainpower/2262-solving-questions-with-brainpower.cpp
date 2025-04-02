@@ -12,9 +12,17 @@ long long helper(int idx,vector<vector<int>>& questions,vector<long long>&dp){
 }
     long long mostPoints(vector<vector<int>>& questions) {
         int n=questions.size();
-        vector<long long>dp(n,-1);
+        vector<long long>dp(n+1,0);
 
-        return helper(0,questions,dp);
+        for(int idx=n-1;idx>=0;idx--){
+            long long op1=dp[idx+1];
+            long long op2=dp[min(idx+questions[idx][1]+1,n)]+questions[idx][0];
+            dp[idx]=max(op1,op2);
+
+
+        }
+
+        return dp[0];
         
     }
 };
