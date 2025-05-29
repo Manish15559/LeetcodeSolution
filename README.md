@@ -149,17 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Manish15559/LeetcodeSolution/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
