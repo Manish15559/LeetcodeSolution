@@ -9,10 +9,14 @@ public:
         int n=nums.size();
 
         for(int i=0;i<n;i++){
-            if(nums[i]<minK||nums[i]>maxK) start=i;
+            if(nums[i]<minK||nums[i]>maxK) {
+                start=i;
+                mini=-1;
+                maxi=-1;
+            }
             if(nums[i]==minK) mini=i;
             if(nums[i]==maxK) maxi=i;
-            count+=max((long long)0,min(mini,maxi)-start);
+            if(mini!=-1&&maxi!=-1) count+=min(mini,maxi)-start;
         }
 
         return count;
