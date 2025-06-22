@@ -1,61 +1,41 @@
 class Solution {
 public:
-struct TreeNode{
-    int data;
-    struct TreeNode *left;
-    struct TreeNode *right;
-    TreeNode(int val){
-        data = val;
-        left=right=NULL;
+  bool dfs(int node, vector<int>& leftChild, vector<int>& rightChild,unordered_set<int>&seen){
+    seen.insert(node);
+    if(leftChild[node]!=-1){
+        if(seen.find(leftChild[node])!=seen.end()) return false;
+        seen.insert(leftChild[node]);
+        if(dfs(leftChild[node],leftChild,rightChild,seen)==false) return false;
     }
-   
-};
-bool dfs(TreeNode *node,vector<bool>&visited){
-    visited[node->data]=true;
-  
-    if(node->left){
-        if(visited[node->left->data]==1||dfs(node->left,visited)==false) return false;
-        
-        
-    }
-    if(node->right){
-        if(visited[node->right->data]==1||dfs(node->right,visited)==false) return false;
-       
-        
+    if(rightChild[node]!=-1){
+        if(seen.find(rightChild[node])!=seen.end()) return false;
+        seen.insert(rightChild[node]);
+        if(dfs(rightChild[node],leftChild,rightChild,seen)==false) return false;
     }
     return true;
-}
+    
+  }
+
     bool validateBinaryTreeNodes(int n, vector<int>& leftChild, vector<int>& rightChild) {
-        
-        map<int,TreeNode*>mp;
-        unordered_set<TreeNode *>st;
-        for(int i=0;i<n;i++){
-            mp[i]=new TreeNode(i);
-            st.insert(mp[i]);
-        }
-        
 
-        for(int i=0;i<n;i++){
-            if(leftChild[i]!=-1) {
-                mp[i]->left=mp[leftChild[i]];
-             if(st.find(mp[leftChild[i]])!=st.end()) st.erase(mp[leftChild[i]]);
-            }
-            if(rightChild[i]!=-1) {
-                mp[i]->right=mp[rightChild[i]];
-                if(st.find(mp[rightChild[i]])!=st.end()) st.erase(mp[rightChild[i]]);
+        unordered_set<int>st;
+        for(auto it:leftChild) st.insert(it);
+        for(auto it:rightChild) st.insert(it);
+
+        int root=-1;
+        for(int i=0;i<n;i++) {
+            if(st.find(i)==st.end()){
+                root=i;
+                break;
             }
         }
-        if(st.size()!=1) return false;
-        TreeNode *root= *st.begin();
+        if(root==-1) return false;
+        unordered_set<int>seen;
 
-        vector<bool>visited(n,false);
-
-        bool f=dfs(root,visited);
-        if(f==false) return false;
-        for(auto it:visited){
-            if(it==false) return false;
-        }
-        return true;
+       
+        bool valid=dfs(root,leftChild,rightChild,seen);
+       
+         return valid & (seen.size()==n);
         
     }
 };
