@@ -28,7 +28,7 @@ bool dfs(TreeNode *node,vector<bool>&visited){
     bool validateBinaryTreeNodes(int n, vector<int>& leftChild, vector<int>& rightChild) {
         
         map<int,TreeNode*>mp;
-        set<TreeNode *>st;
+        unordered_set<TreeNode *>st;
         for(int i=0;i<n;i++){
             mp[i]=new TreeNode(i);
             st.insert(mp[i]);
