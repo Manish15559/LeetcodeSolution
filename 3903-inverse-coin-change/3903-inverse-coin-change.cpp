@@ -26,16 +26,17 @@ public:
     vector<int> findCoins(vector<int>& numWays) {
 
         int n=numWays.size();
+        vector<int>ways(n+1,0);
         vector<int>ans;
-
-        for(int i=1;i<=n;i++){
-            int op1=ways(i,ans);
-            if(op1==numWays[i-1]){
-                continue;
+        ways[0]=1;
+        for(int idx=1;idx<=n;idx++){
+            if(ways[idx]==numWays[idx-1]) continue;
+            ans.push_back(idx);
+            for(int i=idx;i<=n;i++){
+                ways[i]+=ways[i-idx];
             }
-            ans.push_back(i);
-            int op2=ways(i,ans);
-            if(op2!=numWays[i-1]) return {};
+             if(ways[idx]!=numWays[idx-1]) return {};
+
         }
 
         return ans;
