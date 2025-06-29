@@ -11,20 +11,18 @@ long long binexp(int n,int mod){
         sort(nums.begin(),nums.end());
         int ans=0;
         int mod=1e9+7;
-        for(int i=0;i<n;i++){
-            // cout<<ans<<endl;
-            if((2*nums[i])>target) break;
-            ans++;
-            int idx=upper_bound(nums.begin(),nums.end(),(target-nums[i]))-nums.begin();
-            // cout<<idx<<endl;
-            if(i>=idx) continue;
-            long long cnt=idx-i-1;
-            long long val=binexp(cnt,mod)-1;
-            val%=mod;
-            ans+=val;
-            ans%=mod;
+        int left=0;
+        int right=n-1;
+        while(left<=right){
+            if((nums[left]+nums[right])<=target) {
+                ans=(ans%mod+binexp((right-left),mod)%mod)%mod;
+                left++;
+            }
+            else{
+                right--;
+            }
+            
         }
         return ans;
-        
     }
 };
