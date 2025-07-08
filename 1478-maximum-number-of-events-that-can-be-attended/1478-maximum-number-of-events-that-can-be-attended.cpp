@@ -1,27 +1,31 @@
 class Solution {
 public:
-
-
+static bool comp(vector<int>a,vector<int>b){
+    if(a[0]!=b[0]) return a[0]<b[0];
+    return a[1]<b[1];
+}
     int maxEvents(vector<vector<int>>& events) {
-       sort(events.begin(),events.end());
-        int cnt=0;
-      priority_queue<int,vector<int>,greater<int>>pq;
-        int idx=0;
         int n=events.size();
-       for(int day=1;day<=1e5;day++){
-        while(idx<n&&events[idx][0]==day){
-            pq.push(events[idx][1]);
-            idx++;
-        }
-        while(!pq.empty()&&pq.top()<day) pq.pop();
-        if(!pq.empty()){
-            pq.pop();
-            cnt++;
-        }
 
+        sort(events.begin(),events.end(),comp);
+        int ans=0;
+        priority_queue<int,vector<int>,greater<int>>q;
+        int idx=0;
+        for(int day=1;day<=1e5;day++){
+            while(idx<n&&events[idx][0]<=day){
+                q.push(events[idx][1]);
+                idx++;
+            }
+            while(!q.empty()&&q.top()<day) q.pop();
 
-       }
-       return cnt;
+            if(!q.empty()){
+                ans++;
+                q.pop();
+            }
+
+            
+        }
+        return ans;
         
     }
 };
