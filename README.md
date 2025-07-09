@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3831-find-x-value-of-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3831-find-x-value-of-array-i) |
 ## String
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Design
 |  |
 | ------- |
