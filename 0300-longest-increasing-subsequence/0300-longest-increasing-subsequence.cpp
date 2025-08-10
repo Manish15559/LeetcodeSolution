@@ -1,25 +1,26 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& arr) {
-        int n=arr.size();
-         vector<int> temp;
-    temp.push_back(arr[0]);
+   int helper(int idx,int prev,vector<int>&nums,vector<vector<int>>&dp){
 
-    int len = 1;
+    if(idx==nums.size()) return 0;
 
-    for (int i = 1; i < n; i++) {
-        if (arr[i] > temp.back()) {
-            // If arr[i] is greater than the last element of temp, extend the subsequence
-            temp.push_back(arr[i]);
-            len++;
-        } else {
-            // If arr[i] is not greater, replace the element in temp with arr[i]
-            int ind = lower_bound(temp.begin(), temp.end(), arr[i]) - temp.begin();
-            temp[ind] = arr[i];
-        }
-    }
+    if(dp[idx][prev+1]!=-1) return dp[idx][prev+1];
 
-    return len;
+
+    // take
+    int taken = 0;
+    if(prev==-1||nums[idx]>nums[prev]) taken =1+helper(idx+1,idx,nums,dp);
+    //not take it
+    int nottaken=helper(idx+1,prev,nums,dp);
+
+    return dp[idx][prev+1]=max(taken,nottaken);
+   }
+    int lengthOfLIS(vector<int>& nums) {
+
+        int n=nums.size();
+        vector<vector<int>>dp(n,vector<int>(n+1,-1));
+
+        return helper(0,-1,nums,dp);
         
     }
 };
