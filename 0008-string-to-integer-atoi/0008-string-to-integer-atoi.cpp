@@ -2,56 +2,36 @@ class Solution {
 public:
     int myAtoi(string s) {
 
-       if(s.size()==0) return 0;
-       int n=s.size();
+        long long num=0;
+        bool isNegative=false;
+        bool isDigitSeen=false;
+        bool isSignSeen=false;
+        for(int i=0;i<s.size();i++){
 
-       bool isPositive = true;
+            //suppose a space is appear at index i
+
+            if(isDigitSeen==false&&isSignSeen==false&&s[i]==' ') continue;
+            //supppose a sign is appear at index i
+            else if(isDigitSeen==false&&isSignSeen==false&&(s[i]=='+'||s[i]=='-')){
+                if(s[i]=='-') isNegative=true;
+                isSignSeen=true;
+            }
+            else if('0'<=s[i]&&s[i]<='9'){
+                isDigitSeen =true;
+                num= (num*10)+(s[i]-'0');
+                if(isNegative&&(-1*num)<INT_MIN) return INT_MIN;
+                else if(!isNegative&&num>INT_MAX) return INT_MAX;
+            }
+            else{
+                break;
+            }
+        }
+
+
+        return isNegative?(-1*num):num;
+    
 
       
-       int left=0;
-       int right =n;
-
-       while(left<n&&s[left]==' ') left++;
-       cout<<left<<endl;
-
-        if(s[left]=='-') isPositive=false;
-       bool f=true; //this track whether i have included any number in final string or not
-       int init=left;
-       for(int idx=left;idx<n;idx++){
-        if(idx==init&&(s[idx]=='+'||s[idx]=='-')) {
-            left=idx+1;
-            continue;
-        }
-        if(f&&(s[idx]=='0')) left=idx+1;
-        else if ('0'<=s[idx]&&s[idx]<='9'){
-            f=false;
-        }
-        else{
-            right=idx;
-            break;
-        }
-       }
-
-        long long number=0;
-        long long mul=1;
-        cout<<left<<" "<<right;
-        if((right-left)>10){
-            if(isPositive) return INT_MAX;
-            else return INT_MIN;
-        }
-
-        for(int idx=right-1;idx>=left;idx--){
-
-            number =number + ((s[idx]-'0')*(mul));
-            mul*=10;
-
-        }
-        number*=(isPositive?1:-1);
-        if(INT_MIN<=number&&number<=INT_MAX) return number;
-
-
-        if(isPositive) return INT_MAX;
-            else return INT_MIN;
 
        }
 
