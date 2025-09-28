@@ -2,7 +2,7 @@ class StockPrice {
 public:
 
 multiset<int>st; //track all the prices from low value to high value;
-unordered_map<int,int>mp; //track the price at particular timestamp
+map<int,int>mp; //track the price at particular timestamp
 int latest_timestamp=-1;
     StockPrice() {
         
@@ -27,7 +27,7 @@ int latest_timestamp=-1;
     
     int current() {
 
-    return mp[latest_timestamp];
+    return mp.rbegin()->second;
         
     }
     
