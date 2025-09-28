@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Shortest Path
 |  |
 | ------- |
