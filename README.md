@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Manish15559/LeetcodeSolution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2012-process-tasks-using-servers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2012-process-tasks-using-servers) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2262-solving-questions-with-brainpower](https://github.com/Manish15559/LeetcodeSolution/tree/master/2262-solving-questions-with-brainpower) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2012-process-tasks-using-servers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2012-process-tasks-using-servers) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
