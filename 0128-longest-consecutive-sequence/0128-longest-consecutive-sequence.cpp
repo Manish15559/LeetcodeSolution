@@ -1,25 +1,17 @@
 class Solution {
 public:
-int helper(int curr,unordered_set<int>&st,unordered_map<int,int>&vis){
-    if(vis.find(curr)!=vis.end()) return vis[curr];
-    if(st.find(curr)==st.end()) return 0;
 
-    return vis[curr]=1+helper((curr+1),st,vis);
-}
     int longestConsecutive(vector<int>& nums) {
-    unordered_set<int>st;
-    unordered_map<int,int>vis;
-    for(auto it:nums) st.insert(it);
-
-    // int cnt=0;
-    for(auto it:st){
-       helper(it,st,vis);
-        
+    unordered_set<int>st(nums.begin(),nums.end());  //o(n)
+    int longest=0;
+    for(int num:st){//o(n+n)
+        if(st.find(num-1)==st.end()){
+            int length=1;
+            while(st.find(num+length)!=st.end()) length++;
+            longest=max(longest,length);
+        }
     }
-    int ans=0;
-    for(auto it:vis) ans=max(ans,it.second);
-
-    return ans;
+    return longest;
         
     }
 };
