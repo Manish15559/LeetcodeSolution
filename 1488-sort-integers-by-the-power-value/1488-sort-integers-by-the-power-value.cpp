@@ -1,10 +1,10 @@
-class Solution {
-public:
-
-static bool compare(pair<int,int>a,pair<int,int>b){
+unordered_map<int,int>powers;
+bool compare(pair<int,int>a,pair<int,int>b){
     if(a.first!=b.first) return a.first<b.first;
     else return a.second<b.second;
 }
+class Solution {
+public:
 
 int helper(int currNum,unordered_map<int,int>&powers){
     if(currNum==1) return 0;
@@ -13,7 +13,7 @@ int helper(int currNum,unordered_map<int,int>&powers){
     else return powers[currNum]=1+helper(currNum/2,powers);
 }
     int getKth(int lo, int hi, int k) {
-        unordered_map<int,int>powers;
+        
         vector<pair<int,int>>arr;
 
         for(int currNum=lo;currNum<=hi;currNum++){  //o(hi-lo+1)*o(max(valueofinteger))
