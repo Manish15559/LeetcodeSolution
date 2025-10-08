@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/1170-shortest-common-supersequence) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
+| [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Manish15559/LeetcodeSolution/tree/master/1488-sort-integers-by-the-power-value) |
 ## Simulation
 |  |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Manish15559/LeetcodeSolution/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
