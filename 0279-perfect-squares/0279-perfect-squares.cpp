@@ -13,25 +13,17 @@ int helper(int n,int idx,vector<int>&arr,vector<vector<int>>&dp){
 }
     int numSquares(int n) {
        
-        int i=1;
-        vector<int>prefectSquares;
-        while((i*i)<=n){
-            prefectSquares.push_back(i*i);
-            i++;
+      vector<int>dp(n+1,INT_MAX);
+      dp[0]=0;
+      int count=1;
+      while(count*count<=n){
+        int sq=count*count;
+        for(int i=sq;i<n+1;i++){
+            dp[i]=min(dp[i-sq]+1,dp[i]);
         }
-        int m=prefectSquares.size();
-        vector<vector<int>>dp(m,vector<int>(n+1,0));
+        count++;
+      }
 
-        for(int idx=0;idx<m;idx++){
-            for(int val=1;val<=n;val++){
-                int ans=1e9;
-                if(val>=prefectSquares[idx]) ans=1+dp[idx][val-prefectSquares[idx]];
-                if(idx>0) ans=min(ans,dp[idx-1][val]);
-                dp[idx][val]=ans;
-
-            }
-        }
-        return dp[m-1][n];
-        
+      return dp[n];
     }
 };
