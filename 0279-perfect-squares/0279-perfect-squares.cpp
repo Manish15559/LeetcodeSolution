@@ -20,8 +20,18 @@ int helper(int n,int idx,vector<int>&arr,vector<vector<int>>&dp){
             i++;
         }
         int m=prefectSquares.size();
-        vector<vector<int>>dp(m,vector<int>(n+1,-1));
-        return helper(n,m-1,prefectSquares,dp);
+        vector<vector<int>>dp(m,vector<int>(n+1,0));
+
+        for(int idx=0;idx<m;idx++){
+            for(int val=1;val<=n;val++){
+                int ans=1e9;
+                if(val>=prefectSquares[idx]) ans=1+dp[idx][val-prefectSquares[idx]];
+                if(idx>0) ans=min(ans,dp[idx-1][val]);
+                dp[idx][val]=ans;
+
+            }
+        }
+        return dp[m-1][n];
         
     }
 };
