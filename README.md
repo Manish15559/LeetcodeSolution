@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manish15559/LeetcodeSolution/tree/master/0048-rotate-image) |
 | [0279-perfect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1119-robot-bounded-in-circle](https://github.com/Manish15559/LeetcodeSolution/tree/master/1119-robot-bounded-in-circle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manish15559/LeetcodeSolution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
@@ -429,4 +433,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
