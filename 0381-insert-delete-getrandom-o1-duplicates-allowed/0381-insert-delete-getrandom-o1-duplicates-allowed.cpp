@@ -1,65 +1,43 @@
 class RandomizedCollection {
 public:
-unordered_map<int,unordered_set<int>>mp; //{val, idxs where its present}
-vector<int>arr;
+unordered_map<int,vector<int>>mp; //{val, idxes of theat val};
+vector<pair<int,int>>arr;
 
     RandomizedCollection() {
         
     }
-    bool isPresent(int val){
+    bool search(int val){
         if(mp.find(val)!=mp.end()) return true;
         return false;
     }
     
     bool insert(int val) {
-        arr.push_back(val);
-        if(isPresent(val)){
-            mp[val].insert((arr.size()-1));
-            return false;
-        }
-        else{
-            mp[val].insert((arr.size()-1));
-            return true;
-        }
+       bool isPresent =!search(val);
+       mp[val].push_back((arr.size()));
+       arr.push_back({val,mp[val].size()-1});
+       cout<<arr.back().first<<" "<<arr.back().second<<endl;
+       
+       return isPresent;
         
     }
     
     bool remove(int val) {
-        if(isPresent(val)==false) return false;
+       if(search(val)==false) return false;
+       int idx=mp[val].back();
+       auto it=arr.back();
+       mp[it.first][it.second]=idx;
+       arr[idx]={it.first,it.second};
+       arr.pop_back();
+       mp[val].pop_back();
+       if(mp[val].size()==0) mp.erase(val);
 
-        
-        auto it=mp.find(val);
-        int idx=*((it->second).begin());
-        if(arr[idx]==arr[arr.size()-1]){
-            mp[val].erase((arr.size()-1));
-             if(mp[val].size()==0) mp.erase(val);
-            
-            arr.pop_back();
-            return  true;
-
-        }
-        
-        arr[idx]=arr.back();
-        mp[val].erase(idx);
-        mp[arr[idx]].erase((arr.size()-1));
-        mp[arr[idx]].insert(idx);
-        
-        arr.pop_back();
-
-        
-        
-        
-        
-        if(mp[val].size()==0) mp.erase(val);
-
-        return true;
-
+       return true;
         
     }
     
     int getRandom() {
 
-        return arr[rand()%(arr.size())];
+        return arr[rand()%(arr.size())].first;
         
     }
 };
