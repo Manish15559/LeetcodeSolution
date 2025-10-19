@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2262-solving-questions-with-brainpower](https://github.com/Manish15559/LeetcodeSolution/tree/master/2262-solving-questions-with-brainpower) |
+| [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
+| [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
+| [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
