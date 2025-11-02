@@ -5,35 +5,12 @@ const int GUARDED=1;
 const int GUARD= 2;
 const int WALL=3;
 
-void markGuarded(int row,int col,vector<vector<int>>&grid,int m,int n){
+bool isGaurded(int row,int col,vector<vector<int>>&grid,bool isPreviousGuard){
+    if(grid[row][col]==GUARD) return true;
+    else if(grid[row][col]==WALL) return false;
+    else if(isPreviousGuard) grid[row][col]=GUARDED;
 
-    //Traverse upwards
-    for(int r=row-1;r>=0;r--){
-        if(grid[r][col]==WALL||grid[r][col]==GUARD) break;
-        grid[r][col]=GUARDED;
-    }
-
-     //Traverse downwards
-    for(int r=row+1;r<m;r++){
-        if(grid[r][col]==WALL||grid[r][col]==GUARD) break;
-        grid[r][col]=GUARDED;
-    }
-
-     //Traverse left
-    for(int c=col-1;c>=0;c--){
-        if(grid[row][c]==WALL||grid[row][c]==GUARD) break;
-        grid[row][c]=GUARDED;
-    }
-
-     //Traverse rightward
-    for(int c=col+1;c<n;c++){
-         if(grid[row][c]==WALL||grid[row][c]==GUARD) break;
-        grid[row][c]=GUARDED;
-    }
-
-    
-
-    
+    return isPreviousGuard;
 }
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
 
@@ -50,9 +27,30 @@ void markGuarded(int row,int col,vector<vector<int>>&grid,int m,int n){
             int col=it[1];
             grid[row][col]=GUARD;
         }
-        for(auto guard:guards){
-            markGuarded(guard[0],guard[1],grid,m,n);
+
+        for(int row=0;row<m;row++){
+            bool isPreviousGuard = grid[row][0]==GUARD;
+            for(int col=1;col<n;col++) isPreviousGuard=isGaurded(row,col,grid,isPreviousGuard);
+
+            isPreviousGuard = grid[row][n-1]==GUARD;
+
+             for(int col=n-2;col>=0;col--) isPreviousGuard=isGaurded(row,col,grid,isPreviousGuard);
+
+
         }
+
+         for(int col=0;col<n;col++){
+            bool isPreviousGuard = grid[0][col]==GUARD;
+            for(int row=1;row<m;row++) isPreviousGuard=isGaurded(row,col,grid,isPreviousGuard);
+
+            isPreviousGuard = grid[m-1][col]==GUARD;
+
+             for(int row=m-2;row>=0;row--) isPreviousGuard=isGaurded(row,col,grid,isPreviousGuard);
+
+
+        }
+        
+        
 
         int ans=0;
         for(int row=0;row<m;row++){
