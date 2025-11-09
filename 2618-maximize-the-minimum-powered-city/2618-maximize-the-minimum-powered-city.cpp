@@ -35,7 +35,7 @@ public:
         }
 
         long long low=0;
-        long long high=1e15;
+        long long high=1e11;
 
         while(high-low>1){
             long long mid=(high+low)/2;
