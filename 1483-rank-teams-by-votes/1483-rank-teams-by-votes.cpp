@@ -1,5 +1,13 @@
 class Solution {
 public:
+bool comp(char a, char b, vector<vector<int>> &rank) {
+    int m = rank[0].size();
+    for (int i = 0; i < m; ++i) {
+        if (rank[a - 'A'][i] != rank[b - 'A'][i])
+            return rank[a - 'A'][i] > rank[b - 'A'][i]; 
+    }
+    return a < b; 
+}
     string rankTeams(vector<string>& votes) {
 
         int n = votes.size();
@@ -8,45 +16,30 @@ public:
         vector<vector<int>>arr(26,vector<int>(m,0));
 
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){  
             for(int j=0;j<m;j++){
                 arr[(votes[i][j]-'A')][j]++;
             }
         }
 
+        vector<bool>present(26,0);
+        for(auto ch:votes[0]) present[(ch-'A')]=1;
+        string ans="";
+        for(char ch='A';ch<='Z';ch++) if(present[(ch-'A')])  ans.push_back(ch);
+
+          sort(ans.begin(), ans.end(), [&](char a, char b) {
+            for (int i = 0; i < m; ++i) {
+                if (arr[a - 'A'][i] != arr[b - 'A'][i])
+                    return arr[a - 'A'][i] > arr[b - 'A'][i]; // more votes higher
+            }
+            return a < b; // alphabetical tie-break
+        });
+
+        return ans;
+
        
 
-        string str ="";
-        vector<int>done(26,1);
-        for(auto it:votes[0]) done[(it-'A')]=0;
-        for(int i=0;i<m;i++){
-            vector<int>check(26,0);
-            for(int j=0;j<m;j++){
-                int mx=-1;
-                for(int team=0;team<26;team++){
-                    if(check[team]||done[team]) continue;
-                    mx=max(mx,arr[team][j]);
-
-                }
-                // cout<<mx<<" ";
-                for(int team=0;team<26;team++){
-                   if(check[team]||done[team]) continue;
-                   if(mx>arr[team][j]) check[team]=1;
-
-                }
-            }
-            // cout<<endl;
-            for(int team=0;team<26;team++){
-                if(!done[team]&&!check[team]){
-                    cout<<team<<endl;
-                    done[team]=1;
-                    str.push_back(('A'+team));
-                    break;
-                }
-            }
-        }
-
-        return str;
+        
 
        
         
