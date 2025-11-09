@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manish15559/LeetcodeSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Design
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
