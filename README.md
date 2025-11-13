@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Manish15559/LeetcodeSolution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2012-process-tasks-using-servers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2012-process-tasks-using-servers) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manish15559/LeetcodeSolution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Manish15559/LeetcodeSolution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3831-find-x-value-of-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3831-find-x-value-of-array-i) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1119-robot-bounded-in-circle](https://github.com/Manish15559/LeetcodeSolution/tree/master/1119-robot-bounded-in-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Randomized
 |  |
 | ------- |
