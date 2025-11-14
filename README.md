@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Manish15559/LeetcodeSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
