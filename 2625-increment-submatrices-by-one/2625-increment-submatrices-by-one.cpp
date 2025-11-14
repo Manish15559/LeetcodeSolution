@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> rangeAddQueries(int n, vector<vector<int>>& queries) {
         vector<vector<int>>arr(n,vector<int>(n,0));
-        for(auto it: queries){  //o(q*n)
+        for(auto it: queries){  //o(n^2)
             int row1=it[0];  
             int col1=it[1];
             int row2=it[2];
