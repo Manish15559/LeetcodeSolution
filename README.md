@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/1512-design-underground-system) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manish15559/LeetcodeSolution/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manish15559/LeetcodeSolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1483-rank-teams-by-votes) |
 | [1512-design-underground-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Manish15559/LeetcodeSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
