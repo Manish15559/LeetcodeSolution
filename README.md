@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manish15559/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1119-robot-bounded-in-circle](https://github.com/Manish15559/LeetcodeSolution/tree/master/1119-robot-bounded-in-circle) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/1170-shortest-common-supersequence) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Manish15559/LeetcodeSolution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [1012-numbers-with-repeated-digits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1012-numbers-with-repeated-digits) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1012-numbers-with-repeated-digits) |
 | [1119-robot-bounded-in-circle](https://github.com/Manish15559/LeetcodeSolution/tree/master/1119-robot-bounded-in-circle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manish15559/LeetcodeSolution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Manish15559/LeetcodeSolution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manish15559/LeetcodeSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
