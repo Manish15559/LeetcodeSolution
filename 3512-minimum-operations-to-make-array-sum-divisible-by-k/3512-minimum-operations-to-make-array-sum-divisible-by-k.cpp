@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int minOperations(vector<int>& nums, int k) {
+        long long sum=0;
+        for(auto it:nums) sum+=it;
+
+        sum%=k;
+        // int ans=min(sum,(k-sum));
+
+        return sum;
+        
+    }
+};
