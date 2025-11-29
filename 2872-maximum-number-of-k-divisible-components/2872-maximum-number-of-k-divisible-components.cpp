@@ -21,12 +21,12 @@ public:
             adj[edge[1]].push_back(edge[0]);
         }
         int root=0;
-        for(int node=0;node<n;node++){
-            if(adj[node].size()==1) {
-                root=node;
-                break;
-            }
-        }
+        // for(int node=0;node<n;node++){
+        //     if(adj[node].size()==1) {
+        //         root=node;
+        //         break;
+        //     }
+        // }
         int count=0;
         dfs(root,-1,adj,values,count,k);
 
