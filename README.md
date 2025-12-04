@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Manish15559/LeetcodeSolution/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Manish15559/LeetcodeSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Manish15559/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manish15559/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Manish15559/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
