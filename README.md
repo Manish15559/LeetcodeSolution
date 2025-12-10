@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manish15559/LeetcodeSolution/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Manish15559/LeetcodeSolution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3831-find-x-value-of-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3831-find-x-value-of-array-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3201-distribute-candies-among-children-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -598,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
