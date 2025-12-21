@@ -2,33 +2,28 @@ class Solution {
 public:
     int numberOfWays(string corridor) {
 
-        vector<int>gap;
-        int cnt=0;
-        int flag=false;
-        for(auto it:corridor){
-            if(it=='S'){
-                if(flag==false){
-                    gap.push_back(cnt);
-                    cnt=0;
-                    flag=true;
-                }
-                else{
-                    flag=false;
-                }
-            }
-            else if(flag==false) cnt++;
-        }
-        gap.push_back(cnt);
-
-        if(flag||gap.size()==1) return 0;
-
-        long long ans=1;
+        int previous=-1;
+        long long count=1;
         int mod=1e9+7;
-        for(int i=1;i<gap.size()-1;i++){
-            ans=(ans*(gap[i]+1))%mod;
+        int seats=0;
+
+        for(int idx=0;idx<corridor.size();idx++){
+            if(corridor[idx]=='S'){
+                seats+=1;
+                if(seats==2){
+                    seats=0;
+                    previous=idx;
+                }
+            
+            else if(seats==1&&previous!=-1){
+                count*=(idx-previous);
+                count%=mod;
+            }
+        }
         }
 
-        return ans;
+        if(seats==1||previous==-1) return 0;
+        return count;
         
     }
 };
