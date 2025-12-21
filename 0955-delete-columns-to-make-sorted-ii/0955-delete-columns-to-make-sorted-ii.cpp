@@ -18,14 +18,12 @@ public:
         if(isRemove) ans++;
         else{
             for(int j=1;j<n;j++){
-           if(strs[j][i]>strs[j-1][i]) {
-              isEqual[j]=0;
-            }
-               
+                
+                isEqual[j]=((isEqual[j])&((strs[j][i])==strs[j-1][i]));
             }
         }
-    //    for(auto it:isEqual) cout<<it<<" ";
-    //    cout<<endl;
+       for(auto it:isEqual) cout<<it<<" ";
+       cout<<endl;
 
        }
 
