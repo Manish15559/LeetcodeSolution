@@ -24,7 +24,7 @@ public:
 
         for (int right = 0; right < n; right++) {
            
-            ans = max(ans, startTime[right][2]);
+            // ans = max(ans, startTime[right][2]);
 
             
             while (idx < n && endTime[idx][1] < startTime[right][0]) {
