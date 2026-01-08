@@ -32,34 +32,27 @@ public:
         int n = nums1.size();
         int m = nums2.size();
 
-        vector<vector<vector<int>>> dp(
-            n + 1, vector<vector<int>>(m + 1, vector<int>(2, -1e9)));
-
-        for (int i = 0; i <= n; i++)
-            dp[i][0][false] = 0;
-        for (int i = 0; i <= m; i++)
-            dp[0][i][false] = 0;
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1e9));
 
         for (int idx1 = 1; idx1 <= n; idx1++) {
             for (int idx2 = 1; idx2 <= m; idx2++) {
-                for (int flag = 0; flag <= 1; flag++) {
 
-                    // skip idx1
-                    int op1 = dp[idx1-1][idx2][flag];
-                    // skip idx2
-                    int op2 = dp[idx1][idx2-1][flag];
+                // skip idx1
+                int op1 = dp[idx1 - 1][idx2];
+                // skip idx2
+                int op2 = dp[idx1][idx2 - 1];
 
-                    // take product
+                // take product
 
-                    int op3 =
-                        (nums1[idx1-1] * nums2[idx2-1]) +
-                        dp[idx1-1][idx2-1][0];
+                int op3 = (nums1[idx1 - 1] * nums2[idx2 - 1]) +
+                          dp[idx1 - 1][idx2 - 1];
 
-                    dp[idx1][idx2][flag] = max({op1, op2, op3});
-                }
+                int op4 = (nums1[idx1 - 1] * nums2[idx2 - 1]);
+
+                    dp[idx1][idx2] = max({op1, op2, op3, op4});
             }
         }
 
-        return dp[n][m][1];
+        return dp[n][m];
     }
 };
