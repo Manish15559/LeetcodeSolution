@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1012-numbers-with-repeated-digits) |
 | [1119-robot-bounded-in-circle](https://github.com/Manish15559/LeetcodeSolution/tree/master/1119-robot-bounded-in-circle) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Manish15559/LeetcodeSolution/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manish15559/LeetcodeSolution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -688,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
