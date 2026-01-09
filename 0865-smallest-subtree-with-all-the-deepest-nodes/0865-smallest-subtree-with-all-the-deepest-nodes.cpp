@@ -30,9 +30,16 @@ public:
         else if(right==NULL) return left;
         return node;
     }
+    pair<int,TreeNode*> dfs(TreeNode *node){
+        if(node==NULL) return {0,NULL};
+        pair<int,TreeNode*>left=dfs(node->left);
+        pair<int,TreeNode*>right=dfs(node->right);
+        if(left.first>right.first) return {(left.first+1),left.second};
+        else if(right.first>left.first) return {(right.first+1),right.second};
+        else return {(right.first+1),node};
+    }
     TreeNode* subtreeWithAllDeepest(TreeNode* root) {
-        int len=depth(root);
-        return helper(root,len);
+       return dfs(root).second;
         
     }
 };
