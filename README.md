@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manish15559/LeetcodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
+| [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
 | [1512-design-underground-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
+| [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
