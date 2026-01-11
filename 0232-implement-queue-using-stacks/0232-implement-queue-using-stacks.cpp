@@ -5,35 +5,40 @@ stack<int> st1, st2;
         
     }
     
-    void push(int x) {  //o(number of element in the queue)
+    void push(int x) {  
+       st1.push(x);
+        
+    }
+    
+    int pop() { //on average take o(1)
+       if(st2.empty()){
         while(!st1.empty()){
             int val=st1.top();
             st1.pop();
             st2.push(val);
         }
-        st1.push(x);
-        while(!st2.empty()){
-            int val=st2.top();
-            st2.pop();
-            st1.push(val);
-        }
-        
-    }
-    
-    int pop() {
-        int val=st1.top();
-        st1.pop();
-        return val;
+       }
+       int val=st2.top();
+       st2.pop();
+       return val;
         
     }
     
     int peek() {
-        return st1.top();
+        if(st2.empty()){
+        while(!st1.empty()){
+            int val=st1.top();
+            st1.pop();
+            st2.push(val);
+        }
+       }
+       return st2.top();
+      
         
     }
     
     bool empty() {
-        return st1.empty();
+        return st1.empty()&st2.empty();
         
     }
 };
