@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Manish15559/LeetcodeSolution/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Manish15559/LeetcodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Manish15559/LeetcodeSolution/tree/master/0134-gas-station) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manish15559/LeetcodeSolution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Manish15559/LeetcodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Manish15559/LeetcodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Manish15559/LeetcodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manish15559/LeetcodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Manish15559/LeetcodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
