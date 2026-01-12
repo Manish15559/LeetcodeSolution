@@ -46,7 +46,20 @@ public:
     string decodeString(string s) {
         stack<char>st;
         string ans="";
-        helper(0,st,ans,s);
+
+        for(int idx=0;idx<s.size();idx++){
+            if('a'<=s[idx]&&s[idx]<='z'){
+            if(st.empty()) ans.push_back(s[idx]);
+            else st.push(s[idx]);
+        }
+        else if('0'<=s[idx]&&s[idx]<='9') st.push(s[idx]);
+        else if(s[idx]=='[') st.push(s[idx]);
+        else{
+            addMultiplier(st,ans);
+        }
+
+        }
+      
 
         return ans;
         
