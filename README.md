@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manish15559/LeetcodeSolution/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Manish15559/LeetcodeSolution/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Manish15559/LeetcodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manish15559/LeetcodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Manish15559/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
@@ -740,4 +743,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
