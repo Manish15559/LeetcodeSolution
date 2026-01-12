@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manish15559/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Manish15559/LeetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Manish15559/LeetcodeSolution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/Manish15559/LeetcodeSolution/tree/master/1390-four-divisors) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1012-numbers-with-repeated-digits) |
 | [1119-robot-bounded-in-circle](https://github.com/Manish15559/LeetcodeSolution/tree/master/1119-robot-bounded-in-circle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Manish15559/LeetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Manish15559/LeetcodeSolution/tree/master/1390-four-divisors) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manish15559/LeetcodeSolution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Manish15559/LeetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 ## Brainteaser
 |  |
 | ------- |
