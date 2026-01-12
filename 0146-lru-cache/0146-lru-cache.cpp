@@ -61,7 +61,7 @@ public:
             Node *deleteNode = tail->prev;
             removeNode(deleteNode);
             mp.erase(deleteNode->key);
-            // free(deleteNode);
+            delete deleteNode;
             
             }
             Node *newNode = new Node(key,value);
