@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Manish15559/LeetcodeSolution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3453-separate-squares-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
+| [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -749,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
