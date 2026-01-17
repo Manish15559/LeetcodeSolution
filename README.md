@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/Manish15559/LeetcodeSolution/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0090-subsets-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
