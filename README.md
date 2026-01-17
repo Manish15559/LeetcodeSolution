@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Manish15559/LeetcodeSolution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manish15559/LeetcodeSolution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Manish15559/LeetcodeSolution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2376-count-special-integers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2376-count-special-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manish15559/LeetcodeSolution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manish15559/LeetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manish15559/LeetcodeSolution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Brainteaser
 |  |
 | ------- |
