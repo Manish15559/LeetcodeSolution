@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manish15559/LeetcodeSolution/tree/master/0048-rotate-image) |
+| [0223-rectangle-area](https://github.com/Manish15559/LeetcodeSolution/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Manish15559/LeetcodeSolution/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manish15559/LeetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manish15559/LeetcodeSolution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
