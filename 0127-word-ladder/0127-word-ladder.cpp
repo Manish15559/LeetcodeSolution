@@ -6,7 +6,7 @@ public:
         if(unvisited.find(endWord)==unvisited.end()) return 0;
         queue<pair<string,int>>q;
         q.push({beginWord,1});
-        while(!q.empty()){
+        while(!q.empty()){  //tc: o(wordList.size()*len*26) sc: o(n*len)
             string str=q.front().first;
             int path=q.front().second;
             q.pop();
