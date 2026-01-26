@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Manish15559/LeetcodeSolution/tree/master/0990-satisfiability-of-equality-equations) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manish15559/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manish15559/LeetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manish15559/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
