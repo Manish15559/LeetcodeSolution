@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3637-trionic-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Manish15559/LeetcodeSolution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Manish15559/LeetcodeSolution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manish15559/LeetcodeSolution/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3831-find-x-value-of-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3831-find-x-value-of-array-i) |
