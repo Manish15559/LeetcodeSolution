@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Manish15559/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manish15559/LeetcodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manish15559/LeetcodeSolution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
