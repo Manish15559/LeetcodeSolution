@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Manish15559/LeetcodeSolution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Manish15559/LeetcodeSolution/tree/master/3583-count-special-triplets) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/3634-minimum-removals-to-balance-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manish15559/LeetcodeSolution/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Manish15559/LeetcodeSolution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3831-find-x-value-of-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3831-find-x-value-of-array-i) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Manish15559/LeetcodeSolution/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Manish15559/LeetcodeSolution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -770,11 +773,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -835,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
