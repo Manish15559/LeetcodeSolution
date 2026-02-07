@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manish15559/LeetcodeSolution/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manish15559/LeetcodeSolution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
