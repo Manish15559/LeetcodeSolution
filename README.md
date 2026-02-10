@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Manish15559/LeetcodeSolution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3831-find-x-value-of-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3831-find-x-value-of-array-i) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/Manish15559/LeetcodeSolution/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Manish15559/LeetcodeSolution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Memoization
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Manish15559/LeetcodeSolution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
 | [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
