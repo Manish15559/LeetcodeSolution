@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Manish15559/LeetcodeSolution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manish15559/LeetcodeSolution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union Find
 |  |
 | ------- |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Manish15559/LeetcodeSolution/tree/master/1488-sort-integers-by-the-power-value) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Simulation
 |  |
 | ------- |
