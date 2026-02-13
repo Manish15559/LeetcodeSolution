@@ -2,8 +2,9 @@ class Solution {
 public:
     int minimumOperationsToMakeEqual(int x, int y) {
         if(x==y) return 0;
+        if(x<y) return (y-x);
         queue<pair<int,int>>q;
-        vector<int>vis(1e6,0);
+        vector<int>vis((2*x-y+1),0);
         q.push({x,0});
         vis[x]=1;
 
@@ -24,7 +25,7 @@ public:
                 q.push({(node/5),(times+1)});
                 vis[node/5]=1;
             }
-            if(node<1e6&&vis[(node+1)]==0){
+            if(node<(2*x-y)&&vis[(node+1)]==0){
                 if((node+1)==y) return times+1;
                 q.push({(node+1),(times+1)});
                 vis[(node+1)]=1;
