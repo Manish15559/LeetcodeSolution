@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-shortest-bridge](https://github.com/Manish15559/LeetcodeSolution/tree/master/0934-shortest-bridge) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0962-maximum-width-ramp](https://github.com/Manish15559/LeetcodeSolution/tree/master/0962-maximum-width-ramp) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
+| [0934-shortest-bridge](https://github.com/Manish15559/LeetcodeSolution/tree/master/0934-shortest-bridge) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1895-largest-magic-square](https://github.com/Manish15559/LeetcodeSolution/tree/master/1895-largest-magic-square) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Manish15559/LeetcodeSolution/tree/master/0814-binary-tree-pruning) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/Manish15559/LeetcodeSolution/tree/master/0934-shortest-bridge) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish15559/LeetcodeSolution/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/Manish15559/LeetcodeSolution/tree/master/0934-shortest-bridge) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Manish15559/LeetcodeSolution/tree/master/1376-time-needed-to-inform-all-employees) |
