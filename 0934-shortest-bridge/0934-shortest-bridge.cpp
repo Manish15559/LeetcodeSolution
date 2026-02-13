@@ -25,9 +25,9 @@ public:
         int n = grid.size();
         int m = grid[0].size();
         vector<vector<int>> vis(n, vector<int>(m, 0));
-        queue<pair<int, int>> q;
+        queue<pair<int, int>> q;   // o(n*m)+o(n*m)+o(n*m)
         bool f=false;
-        for (int i = 0; i < n; i++) {  //o(n*m)
+        for (int i = 0; i < n; i++) {  //o(4*n*m)
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 1) {
                   
@@ -40,7 +40,7 @@ public:
              if(f) break;
         }
         int required = 0;
-        while (!q.empty()) {
+        while (!q.empty()) { // o(4*n*m)
             required++;
             int sz = q.size();
             // cout<<endl;
