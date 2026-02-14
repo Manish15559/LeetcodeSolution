@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
+| [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
 | [0877-stone-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
