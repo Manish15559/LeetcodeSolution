@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Manish15559/LeetcodeSolution/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
@@ -905,5 +909,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
