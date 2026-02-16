@@ -22,8 +22,8 @@ public:
             vector<TreeNode*> left = buildBst(l, i - 1);
             vector<TreeNode*> right = buildBst(i + 1, r);
 
-            for (auto lh : left) {
-                for (auto rh : right) {
+            for (auto &lh : left) {
+                for (auto &rh : right) {
                     TreeNode* head = new TreeNode(i);
                     head->left = lh;
                     head->right = rh;
