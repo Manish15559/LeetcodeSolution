@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manish15559/LeetcodeSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Manish15559/LeetcodeSolution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Manish15559/LeetcodeSolution/tree/master/0952-largest-component-size-by-common-factor) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manish15559/LeetcodeSolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0401-binary-watch](https://github.com/Manish15559/LeetcodeSolution/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manish15559/LeetcodeSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
