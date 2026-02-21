@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2376-count-special-integers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2376-count-special-integers) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Manish15559/LeetcodeSolution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manish15559/LeetcodeSolution/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manish15559/LeetcodeSolution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union Find
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0310-minimum-height-trees) |
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manish15559/LeetcodeSolution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
