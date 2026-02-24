@@ -15,28 +15,15 @@ public:
     bool isLeaf(TreeNode* node) {
         return ((node->left == NULL) && (node->right == NULL));
     }
-    void dfs(TreeNode* node, int curr, int& ans) {
-        curr = 2 * curr;
-        if (node->val)
-            curr++;
+    int dfs(TreeNode* node, int curr) {
+        if (node == NULL)
+            return 0;
+        curr = 2 * curr + node->val;
         if (isLeaf(node)) {
-
-            ans += curr;
-            return;
+            return curr;
         }
 
-        if (node->left != NULL) {
-
-            dfs(node->left, curr, ans);
-        }
-        if (node->right != NULL) {
-            dfs(node->right, curr, ans);
-        }
+        return dfs(node->left, curr) + dfs(node->right, curr);
     }
-    int sumRootToLeaf(TreeNode* root) {
-        int ans = 0;
-
-        dfs(root, 0, ans);
-        return ans;
-    }
+    int sumRootToLeaf(TreeNode* root) { return dfs(root, 0); }
 };
