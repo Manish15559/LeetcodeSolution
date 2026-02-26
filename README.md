@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish15559/LeetcodeSolution/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1250-longest-common-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/1250-longest-common-subsequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-rank-teams-by-votes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1483-rank-teams-by-votes) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manish15559/LeetcodeSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Manish15559/LeetcodeSolution/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1119-robot-bounded-in-circle](https://github.com/Manish15559/LeetcodeSolution/tree/master/1119-robot-bounded-in-circle) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Manish15559/LeetcodeSolution/tree/master/2211-count-collisions-on-a-road) |
