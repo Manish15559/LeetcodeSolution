@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0639-decode-ways-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0639-decode-ways-ii) |
 | [0696-count-binary-substrings](https://github.com/Manish15559/LeetcodeSolution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0761-special-binary-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Manish15559/LeetcodeSolution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0639-decode-ways-ii) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0437-path-sum-iii) |
+| [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Manish15559/LeetcodeSolution/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Manish15559/LeetcodeSolution/tree/master/0687-longest-univalue-path) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
+| [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Manish15559/LeetcodeSolution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
