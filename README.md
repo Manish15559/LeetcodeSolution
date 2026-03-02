@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [0956-tallest-billboard](https://github.com/Manish15559/LeetcodeSolution/tree/master/0956-tallest-billboard) |
+| [0968-binary-tree-cameras](https://github.com/Manish15559/LeetcodeSolution/tree/master/0968-binary-tree-cameras) |
 | [1012-numbers-with-repeated-digits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1012-numbers-with-repeated-digits) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Manish15559/LeetcodeSolution/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/Manish15559/LeetcodeSolution/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0934-shortest-bridge](https://github.com/Manish15559/LeetcodeSolution/tree/master/0934-shortest-bridge) |
+| [0968-binary-tree-cameras](https://github.com/Manish15559/LeetcodeSolution/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish15559/LeetcodeSolution/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Manish15559/LeetcodeSolution/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/Manish15559/LeetcodeSolution/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1275-validate-binary-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1275-validate-binary-tree-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
