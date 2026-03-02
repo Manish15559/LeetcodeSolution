@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1483-rank-teams-by-votes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manish15559/LeetcodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manish15559/LeetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Manish15559/LeetcodeSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manish15559/LeetcodeSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Manish15559/LeetcodeSolution/tree/master/0934-shortest-bridge) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/Manish15559/LeetcodeSolution/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manish15559/LeetcodeSolution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1975-maximum-matrix-sum) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manish15559/LeetcodeSolution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Manish15559/LeetcodeSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
