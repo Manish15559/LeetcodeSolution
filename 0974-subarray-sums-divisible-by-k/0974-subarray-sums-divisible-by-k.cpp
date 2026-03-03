@@ -6,17 +6,12 @@ public:
         int ans=0;
         int sum=0;
         for(auto it:nums){
-            sum+=it;
+            sum+=(it%k+k);
+            sum%=k;
             // if(it==k) ans++;
-            ans+=cnt[(sum%k)];
-            if(sum>0){
-                
-                ans+=cnt[((sum%k)-k)];
-            }
-            else{
-                 ans+=cnt[((sum%k)+k)];
-            }
-            cnt[sum%k]++;
+            ans+=cnt[sum];
+           
+            cnt[sum]++;
             
         }
         return ans;
