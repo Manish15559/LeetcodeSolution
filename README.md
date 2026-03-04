@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Manish15559/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Manish15559/LeetcodeSolution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manish15559/LeetcodeSolution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manish15559/LeetcodeSolution/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Manish15559/LeetcodeSolution/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manish15559/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Manish15559/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/Manish15559/LeetcodeSolution/tree/master/0696-count-binary-substrings) |
