@@ -2,27 +2,33 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
 
-        set<vector<int>> triplets;
+        vector<vector<int>> triplets;
         int n = nums.size();
-        unordered_set<int> hashSet;
+        sort(nums.begin(), nums.end());
 
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int required = -1 * (nums[i] + nums[j]);
-                if (hashSet.find(required)!=hashSet.end()) {
-                    vector<int> arr = {nums[i], nums[j], required};
-                    sort(arr.begin(), arr.end());
-                    triplets.insert(arr);
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+            int left = i + 1;
+            int right = n - 1;
+            while (left < right) {
+                int tot = nums[i] + nums[left] + nums[right];
+
+                if (tot < 0)
+                    left++;
+                else if (tot > 0)
+                    right--;
+                else {
+                    triplets.push_back({nums[i], nums[left], nums[right]});
+                    left++;
+                    right--;
+                    while (left < right && nums[left] == nums[left - 1])
+                        left++;
+                    while (left < right && nums[right] == nums[right + 1])
+                        right--;
                 }
             }
-            hashSet.insert(nums[i]);
         }
-        vector<vector<int>> ans;
-
-        for (auto it : triplets) {
-            ans.push_back(it);
-        }
-
-        return ans;
+        return triplets;
     }
 };
