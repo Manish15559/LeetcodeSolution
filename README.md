@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Manish15559/LeetcodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Manish15559/LeetcodeSolution/tree/master/0304-range-sum-query-2d-immutable) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manish15559/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Manish15559/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0696-count-binary-substrings](https://github.com/Manish15559/LeetcodeSolution/tree/master/0696-count-binary-substrings) |
