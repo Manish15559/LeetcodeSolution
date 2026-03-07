@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manish15559/LeetcodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manish15559/LeetcodeSolution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Manish15559/LeetcodeSolution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Manish15559/LeetcodeSolution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manish15559/LeetcodeSolution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manish15559/LeetcodeSolution/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Manish15559/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Manish15559/LeetcodeSolution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manish15559/LeetcodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manish15559/LeetcodeSolution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manish15559/LeetcodeSolution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
