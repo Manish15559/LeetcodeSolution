@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/Manish15559/LeetcodeSolution/tree/master/0528-random-pick-with-weight) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Manish15559/LeetcodeSolution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Manish15559/LeetcodeSolution/tree/master/0398-random-pick-index) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/Manish15559/LeetcodeSolution/tree/master/0528-random-pick-with-weight) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manish15559/LeetcodeSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/0877-stone-game) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1922-count-good-numbers) |
@@ -1052,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/0877-stone-game) |
 ## Graph Theory
 |  |
