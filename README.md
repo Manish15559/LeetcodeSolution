@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Manish15559/LeetcodeSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manish15559/LeetcodeSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Manish15559/LeetcodeSolution/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1642-furthest-building-you-can-reach](https://github.com/Manish15559/LeetcodeSolution/tree/master/1642-furthest-building-you-can-reach) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/1512-design-underground-system) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manish15559/LeetcodeSolution/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Manish15559/LeetcodeSolution/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manish15559/LeetcodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Manish15559/LeetcodeSolution/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manish15559/LeetcodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
