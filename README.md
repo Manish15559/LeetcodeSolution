@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Manish15559/LeetcodeSolution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3453-separate-squares-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Manish15559/LeetcodeSolution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/Manish15559/LeetcodeSolution/tree/master/2211-count-collisions-on-a-road) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Manish15559/LeetcodeSolution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manish15559/LeetcodeSolution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -929,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
@@ -1116,4 +1122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
