@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manish15559/LeetcodeSolution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Manish15559/LeetcodeSolution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-largest-magic-square](https://github.com/Manish15559/LeetcodeSolution/tree/master/1895-largest-magic-square) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manish15559/LeetcodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Manish15559/LeetcodeSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1761-count-sorted-vowel-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Manish15559/LeetcodeSolution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manish15559/LeetcodeSolution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manish15559/LeetcodeSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manish15559/LeetcodeSolution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manish15559/LeetcodeSolution/tree/master/2054-two-best-non-overlapping-events) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Manish15559/LeetcodeSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Manish15559/LeetcodeSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manish15559/LeetcodeSolution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manish15559/LeetcodeSolution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manish15559/LeetcodeSolution/tree/master/2054-two-best-non-overlapping-events) |
