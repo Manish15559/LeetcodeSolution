@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Manish15559/LeetcodeSolution/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2484-count-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2484-count-palindromic-subsequences) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Manish15559/LeetcodeSolution/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2262-solving-questions-with-brainpower](https://github.com/Manish15559/LeetcodeSolution/tree/master/2262-solving-questions-with-brainpower) |
 | [2376-count-special-integers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2376-count-special-integers) |
+| [2484-count-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2484-count-palindromic-subsequences) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
