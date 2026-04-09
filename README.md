@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Manish15559/LeetcodeSolution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1383-maximum-performance-of-a-team](https://github.com/Manish15559/LeetcodeSolution/tree/master/1383-maximum-performance-of-a-team) |
 | [1390-four-divisors](https://github.com/Manish15559/LeetcodeSolution/tree/master/1390-four-divisors) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Manish15559/LeetcodeSolution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manish15559/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Manish15559/LeetcodeSolution/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1382-balance-a-binary-search-tree) |
+| [1383-maximum-performance-of-a-team](https://github.com/Manish15559/LeetcodeSolution/tree/master/1383-maximum-performance-of-a-team) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Manish15559/LeetcodeSolution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Manish15559/LeetcodeSolution/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manish15559/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manish15559/LeetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1383-maximum-performance-of-a-team](https://github.com/Manish15559/LeetcodeSolution/tree/master/1383-maximum-performance-of-a-team) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1483-rank-teams-by-votes) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Manish15559/LeetcodeSolution/tree/master/1488-sort-integers-by-the-power-value) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1383-maximum-performance-of-a-team](https://github.com/Manish15559/LeetcodeSolution/tree/master/1383-maximum-performance-of-a-team) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Manish15559/LeetcodeSolution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1642-furthest-building-you-can-reach](https://github.com/Manish15559/LeetcodeSolution/tree/master/1642-furthest-building-you-can-reach) |
