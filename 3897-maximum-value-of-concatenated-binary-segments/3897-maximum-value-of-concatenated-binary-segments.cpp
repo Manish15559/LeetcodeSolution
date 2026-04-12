@@ -6,6 +6,15 @@ bool comp(pair<int, int> x, pair<int, int> y) {
 
 class Solution {
 public:
+    long long binexp(long long x, long long y, int m) {
+        if (y == 0)
+            return 1;
+        long long val = binexp(x, y / 2, m);
+        if (y % 2 == 1)
+            return (val * x * val) % m;
+        else
+            return (val * val) % m;
+    }
     int maxValue(vector<int>& nums1, vector<int>& nums0) {
         int n = nums1.size();
         vector<pair<int, int>> arr;
@@ -21,22 +30,18 @@ public:
         sort(arr.begin(), arr.end(), comp);
         long long ans = 0;
         int mod = 1e9 + 7;
-        while (count--) {
-            ans = (2 * ans) + 1;
-            ans %= mod;
-        }
+        ans = binexp(2, count, mod) - 1;
+        cout<<ans<<endl;
         for (int i = 0; i < arr.size(); i++) {
-            cout<<arr[i].first<<" "<<arr[i].second<<endl;
-            int val = arr[i].first;
-            while (val--) {
-                ans = (2 * ans) + 1;
-                ans %= mod;
-            }
-            val = arr[i].second;
-            while (val--) {
-                ans = (2 * ans);
-                ans %= mod;
-            }
+            // cout<<arr[i].first<<" "<<arr[i].second<<endl;
+
+            long long val1 = binexp(2, arr[i].first, mod) - 1;
+            long long val2 = binexp(2, arr[i].second, mod);
+            long long val = (val1 * val2) % mod;
+            ans*=binexp(2,(arr[i].first+arr[i].second),mod);
+            ans%=mod;
+            ans += val;
+            ans %= mod;
         }
 
         return ans;
