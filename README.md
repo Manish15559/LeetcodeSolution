@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Manish15559/LeetcodeSolution/tree/master/1202-smallest-string-with-swaps) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish15559/LeetcodeSolution/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1250-longest-common-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/1250-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Manish15559/LeetcodeSolution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Manish15559/LeetcodeSolution/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manish15559/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Manish15559/LeetcodeSolution/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/1458-max-dot-product-of-two-subsequences) |
