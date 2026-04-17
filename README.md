@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Manish15559/LeetcodeSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2615-sum-of-distances](https://github.com/Manish15559/LeetcodeSolution/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Manish15559/LeetcodeSolution/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2376-count-special-integers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2376-count-special-integers) |
 | [2484-count-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2484-count-palindromic-subsequences) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2488-count-subarrays-with-median-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/2488-count-subarrays-with-median-k) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2615-sum-of-distances](https://github.com/Manish15559/LeetcodeSolution/tree/master/2615-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1483-rank-teams-by-votes) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manish15559/LeetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Manish15559/LeetcodeSolution/tree/master/3583-count-special-triplets) |
