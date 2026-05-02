@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manish15559/LeetcodeSolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0401-binary-watch](https://github.com/Manish15559/LeetcodeSolution/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manish15559/LeetcodeSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Manish15559/LeetcodeSolution/tree/master/0868-binary-gap) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish15559/LeetcodeSolution/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Manish15559/LeetcodeSolution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Manish15559/LeetcodeSolution/tree/master/0398-random-pick-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
