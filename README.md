@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Manish15559/LeetcodeSolution/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Manish15559/LeetcodeSolution/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [0814-binary-tree-pruning](https://github.com/Manish15559/LeetcodeSolution/tree/master/0814-binary-tree-pruning) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Manish15559/LeetcodeSolution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0794-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0310-minimum-height-trees) |
+| [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1203,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
