@@ -2,13 +2,13 @@ class Solution {
 public:
     bool check(int source, int target, vector<pair<int, int>> adj[],
                int threshold, int k, int n) {
-        queue<pair<int, int>> q;
+        deque<pair<int,int>>q;
         vector<int> dist(n, (k + 1));
         dist[source] = 0;
-        q.push({source, 0});
+        q.push_front({source, 0});
         while (!q.empty()) {
             auto it = q.front();
-            q.pop();
+            q.pop_front();
             int node = it.first;
             int wt = it.second;
             if (wt > dist[node])
@@ -18,7 +18,10 @@ public:
                 int weight = wt + (it.second > threshold);
                 if (weight < dist[adjNode]) {
                     dist[adjNode] = weight;
-                    q.push({adjNode, weight});
+                    if(it.second>threshold)
+                    q.push_back({adjNode, weight});
+                    else
+                    q.push_front({adjNode,weight});
                 }
             }
         }
