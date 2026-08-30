@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manish15559/LeetcodeSolution/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/3249-count-the-number-of-good-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manish15559/LeetcodeSolution/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/3249-count-the-number-of-good-nodes) |
 ## Binary Tree
 |  |
 | ------- |
