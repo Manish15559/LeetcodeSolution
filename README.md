@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Manish15559/LeetcodeSolution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3026-maximum-good-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3026-maximum-good-subarray-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manish15559/LeetcodeSolution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Manish15559/LeetcodeSolution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Manish15559/LeetcodeSolution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3026-maximum-good-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3026-maximum-good-subarray-sum) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Manish15559/LeetcodeSolution/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
+| [3026-maximum-good-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3026-maximum-good-subarray-sum) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
