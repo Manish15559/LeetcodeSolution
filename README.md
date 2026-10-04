@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0639-decode-ways-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0639-decode-ways-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Manish15559/LeetcodeSolution/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Manish15559/LeetcodeSolution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0639-decode-ways-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0799-champagne-tower](https://github.com/Manish15559/LeetcodeSolution/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/0877-stone-game) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manish15559/LeetcodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manish15559/LeetcodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
 | [0962-maximum-width-ramp](https://github.com/Manish15559/LeetcodeSolution/tree/master/0962-maximum-width-ramp) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Manish15559/LeetcodeSolution/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manish15559/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1245,4 +1249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
