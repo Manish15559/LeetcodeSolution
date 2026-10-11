@@ -1,21 +1,19 @@
 class Solution {
 public:
-    static bool comp(vector<int>a,vector<int>b){
-        return a[1]>b[1];
-    }
+    static bool comp(vector<int>& a, vector<int>& b) { return a[0] < b[0]; }
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-
-        sort(intervals.begin(),intervals.end(),comp);
-
-        vector<vector<int>>merge;
-        merge.push_back(intervals[0]);
-
-        for(int i=1;i<intervals.size();i++){
-            if(merge.back()[0]<=intervals[i][1])  merge.back()[0]=min(intervals[i][0],merge.back()[0]);
-            else  merge.push_back(intervals[i]);
+        sort(intervals.begin(), intervals.end(), comp);
+        vector<vector<int>> ans;
+        int n = intervals.size();
+        ans.push_back(intervals[0]);
+        for (int i = 1; i < n; i++) {
+            if (intervals[i][0] <= ans.back()[1]) {
+                ans.back()[1] = max(ans.back()[1], intervals[i][1]);
+            } else {
+                ans.push_back(intervals[i]);
+            }
         }
 
-        return merge;
-        
+        return ans;
     }
 };
