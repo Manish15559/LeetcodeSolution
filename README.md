@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Manish15559/LeetcodeSolution/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2488-count-subarrays-with-median-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/2488-count-subarrays-with-median-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Manish15559/LeetcodeSolution/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Manish15559/LeetcodeSolution/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Manish15559/LeetcodeSolution/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Manish15559/LeetcodeSolution/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
