@@ -1,48 +1,35 @@
 class Solution {
 public:
-void bfs(int row,int col,vector<vector<int>>&vis,vector<vector<char>>&grid){
-    int n=grid.size();
-    int m=grid[0].size();
-    queue<pair<int,int>>q;
-    q.push({row,col});
-    int dx[]={0,0,-1,1};
-    int dy[]={-1,1,0,0};
-   
-    while(!q.empty()){
-        int row=q.front().first;
-        int col=q.front().second;
-        q.pop();
-        for(int i=0;i<4;i++){
-                int nrow=row+dx[i];
-                int ncol=col+dy[i];
-                if(nrow>=0&&nrow<n&&ncol>=0&&ncol<m&&!vis[nrow][ncol]&&grid[nrow][ncol]=='1'){
-                    q.push({nrow,ncol});
+    void dfs(int row,int col,vector<vector<char>>&grid,vector<vector<int>>&vis){
+        int dx[]={-1,1,0,0};  //LRUD
+        int dy[]={0,0,1,-1};
+        for(int idx=0;idx<4;idx++){
+            int nrow=row+dx[idx];
+            int ncol=col+dy[idx];
+            if(nrow>=0&&ncol>=0&&nrow<grid.size()&&ncol<grid[0].size()){
+                if(!vis[nrow][ncol]&&grid[nrow][ncol]=='1'){
                     vis[nrow][ncol]=1;
-
-                }
-            
-        }
-    }
-}
-    int numIslands(vector<vector<char>>& grid) {
-        int n =grid.size();
-        int m= grid[0].size();
-
-        int cnt=0;
-        vector<vector<int>>vis(n,vector<int>(m,0));
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(!vis[i][j]&&grid[i][j]=='1'){
-                    cnt++;
-                    vis[i][j]=1;
-                   
-                    bfs(i,j,vis,grid);
+                    dfs(nrow,ncol,grid,vis);
                 }
             }
         }
+    }
+    int numIslands(vector<vector<char>>& grid) {
+        int n=grid.size();
+        int m=grid[0].size();
 
-        return cnt;
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        int count=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(!vis[i][j]&&grid[i][j]=='1'){
+                    count++;
+                    vis[i][j]=1;
+                    dfs(i,j,grid,vis);
+                }
+            }
+        }
+        return count;
         
     }
 };
