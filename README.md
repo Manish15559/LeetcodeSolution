@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Manish15559/LeetcodeSolution/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manish15559/LeetcodeSolution/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -1255,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
