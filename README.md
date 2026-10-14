@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2484-count-palindromic-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/2484-count-palindromic-subsequences) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Manish15559/LeetcodeSolution/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Manish15559/LeetcodeSolution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3026-maximum-good-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3026-maximum-good-subarray-sum) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Manish15559/LeetcodeSolution/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/2547-minimum-cost-to-split-an-array) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/Manish15559/LeetcodeSolution/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manish15559/LeetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Manish15559/LeetcodeSolution/tree/master/3583-count-special-triplets) |
