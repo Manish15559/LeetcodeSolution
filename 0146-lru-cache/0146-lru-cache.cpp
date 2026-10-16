@@ -1,74 +1,74 @@
 class LRUCache {
 public:
-    class Node{
+    class Node {
         public:
         int key;
-        int val;
-        Node *next;
-        Node *prev;
-        Node (int _key,int _val){
-            key=_key;
-            val=_val;
+        int value;
+        Node* prev;
+        Node* next;
+        Node(int key, int value) {
+            this->key = key;
+            this->value = value;
         }
+
     };
 
-    int cap;
-    Node *head= new Node(-1,-1);
-    Node *tail= new Node(-1,-1);
-    map<int,Node*>mp;
-
-
-    LRUCache(int capacity) {
-        cap=capacity;
+    Node* head = new Node(-1, -1);
+    Node* tail = new Node(-1, -1);
+    unordered_map<int, Node*> keyToAddressMapping;
+    int capacity;
+    LRUCache(int capacity) { 
+        this->capacity = capacity;
         head->next=tail;
         tail->prev=head;
-        
-    }
-    void addNode(Node *node){
-        Node *temp= head->next;
+        }
+
+    void addNextToHead(Node *node){
+        Node *nodeNextToHead = head->next;
         head->next=node;
         node->prev=head;
-        temp->prev=node;
-        node->next=temp;
+        node->next=nodeNextToHead;
+        nodeNextToHead->prev=node;
     }
-    void removeNode(Node *node){
-        Node *left=node->prev;
-        Node *right=node->next;
-        left->next=right;
-        right->prev=left;
-        
-    }
-    int get(int key) {
-        if(mp.find(key)==mp.end()) return -1;
-        Node *node=mp[key];
-        removeNode(node);
-        addNode(node);
-        return node->val;
 
-        
-        
+    void removeNode(Node *node){
+
+        Node * prevNode = node->prev;
+        Node * nextNode = node->next;
+        node->prev=NULL;
+        node->next=NULL;
+        prevNode->next=nextNode;
+        nextNode->prev=prevNode;
     }
-    
+
+    int get(int key) {
+        if(keyToAddressMapping.find(key)==keyToAddressMapping.end()) return -1;
+
+        Node *node=keyToAddressMapping[key];
+        removeNode(node);
+        addNextToHead(node);
+        return node->value;
+    }
+
     void put(int key, int value) {
-        if(mp.find(key)!=mp.end()){
-            Node *node=mp[key];
-            node->val=value;
+        if(keyToAddressMapping.find(key)!=keyToAddressMapping.end()){
+            Node *node = keyToAddressMapping[key];
+            node->value=value;
             removeNode(node);
-            addNode(node);
+            addNextToHead(node);
         }
-        else {
-            if(cap==mp.size()){
-            Node *deleteNode = tail->prev;
-            removeNode(deleteNode);
-            mp.erase(deleteNode->key);
-            delete deleteNode;
-            
+        else{
+            if(keyToAddressMapping.size()==capacity){
+                Node *deleteNode = tail->prev;
+                removeNode(deleteNode);
+                keyToAddressMapping.erase(deleteNode->key);
+                delete deleteNode;
             }
             Node *newNode = new Node(key,value);
-            addNode(newNode);
-            mp[key]=newNode;
+            keyToAddressMapping[key]=newNode;
+            addNextToHead(newNode);
+
         }
-        
     }
 };
 
