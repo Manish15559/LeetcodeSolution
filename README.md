@@ -1301,4 +1301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
