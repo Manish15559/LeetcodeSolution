@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1483-rank-teams-by-votes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manish15559/LeetcodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/Manish15559/LeetcodeSolution/tree/master/1383-maximum-performance-of-a-team) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Manish15559/LeetcodeSolution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/Manish15559/LeetcodeSolution/tree/master/1642-furthest-building-you-can-reach) |
 | [2012-process-tasks-using-servers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2012-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/Manish15559/LeetcodeSolution/tree/master/2054-two-best-non-overlapping-events) |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manish15559/LeetcodeSolution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Counting
@@ -1230,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1296,4 +1300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-swim-in-rising-water) |
+| [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
