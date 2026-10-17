@@ -1321,4 +1321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Manish15559/LeetcodeSolution/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Manish15559/LeetcodeSolution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
