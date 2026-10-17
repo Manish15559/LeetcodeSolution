@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Manish15559/LeetcodeSolution/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Manish15559/LeetcodeSolution/tree/master/0990-satisfiability-of-equality-equations) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1024-video-stitching](https://github.com/Manish15559/LeetcodeSolution/tree/master/1024-video-stitching) |
 | [1129-longest-string-chain](https://github.com/Manish15559/LeetcodeSolution/tree/master/1129-longest-string-chain) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manish15559/LeetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/Manish15559/LeetcodeSolution/tree/master/0962-maximum-width-ramp) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manish15559/LeetcodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manish15559/LeetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/Manish15559/LeetcodeSolution/tree/master/0962-maximum-width-ramp) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/Manish15559/LeetcodeSolution/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Manish15559/LeetcodeSolution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/Manish15559/LeetcodeSolution/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manish15559/LeetcodeSolution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Manish15559/LeetcodeSolution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -1298,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/1382-balance-a-binary-search-tree) |
 ## Bitmask
