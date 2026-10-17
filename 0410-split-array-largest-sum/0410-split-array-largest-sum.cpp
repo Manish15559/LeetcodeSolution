@@ -1,53 +1,34 @@
 class Solution {
 public:
-    bool check1(long long mid, int k, vector<int>& nums) {
-        int cnt = 1;
-        long long sum = 0;
+    bool check(int mid, vector<int>& nums, int k) {
+        int curr = 0;
+        k--;
         for (auto it : nums) {
-            if ((sum + it) > mid) {
-                cnt++;
-                sum = it;
+            if ((curr + it) > mid) {
+                k--;
+                curr = it;
             } else {
-                sum += it;
+                curr += it;
             }
         }
-
-        return cnt <= k;
+     return (k >= 0);
+            // return mid;
     }
-
-    bool check2(long long mid, int k, vector<int>& nums) {
-        long long remaining = mid;
-        int cnt = 1;
-        for (auto it : nums) {
-            if ((remaining - it) < 0) {
-                cnt++;
-                remaining = mid - it;
-
-            } else {
-                remaining -= it;
-            }
-        }
-        return cnt <= k;
-    }
-
     int splitArray(vector<int>& nums, int k) {
-
-        long long low = *max_element(nums.begin(), nums.end());
-        long long high = 0;
-        for (auto it : nums)
-            high += it;
-
-        while (high - low > 1) {
-            long long mid = (low + high) / 2;
-            // cout<<mid<<endl;
-            if (check2(mid, k, nums))
+        int mini=0;
+        for(auto it:nums) mini=max(mini,it);
+        int low = mini;
+        int high = 1e9;
+        while ((high - low) > 1) {
+            int mid = (low + high) / 2;
+            if (check(mid, nums, k))
                 high = mid;
             else
                 low = mid + 1;
         }
-
-        if (check2(low, k, nums))
+        if (check(low, nums, k))
             return low;
-        return high;
+        else
+            return high;
     }
 };
