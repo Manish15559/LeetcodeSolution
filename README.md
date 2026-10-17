@@ -769,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Manish15559/LeetcodeSolution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Manish15559/LeetcodeSolution/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1205,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Manish15559/LeetcodeSolution/tree/master/0802-find-eventual-safe-states) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/2360-longest-cycle-in-a-graph) |
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 ## Geometry
 |  |
@@ -1246,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Manish15559/LeetcodeSolution/tree/master/0802-find-eventual-safe-states) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/2360-longest-cycle-in-a-graph) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1325,10 +1329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Manish15559/LeetcodeSolution/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Manish15559/LeetcodeSolution/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/2360-longest-cycle-in-a-graph) |
 ## Bidirectional Search
 |  |
 | ------- |
