@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/Manish15559/LeetcodeSolution/tree/master/0528-random-pick-with-weight) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manish15559/LeetcodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manish15559/LeetcodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
 | [0962-maximum-width-ramp](https://github.com/Manish15559/LeetcodeSolution/tree/master/0962-maximum-width-ramp) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manish15559/LeetcodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/Manish15559/LeetcodeSolution/tree/master/0962-maximum-width-ramp) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
+| [0496-next-greater-element-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0815-bus-routes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
