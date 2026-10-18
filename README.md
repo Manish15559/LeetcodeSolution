@@ -1409,4 +1409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manish15559/LeetcodeSolution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
