@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/Manish15559/LeetcodeSolution/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Manish15559/LeetcodeSolution/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Manish15559/LeetcodeSolution/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Manish15559/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Manish15559/LeetcodeSolution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/Manish15559/LeetcodeSolution/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Manish15559/LeetcodeSolution/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2262-solving-questions-with-brainpower](https://github.com/Manish15559/LeetcodeSolution/tree/master/2262-solving-questions-with-brainpower) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Manish15559/LeetcodeSolution/tree/master/2289-steps-to-make-array-non-decreasing) |
