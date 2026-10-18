@@ -1,34 +1,29 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char, int> count;
-        int tot = t.size();
-        for (auto it : t) {
-            count[it]++;
+        int n = s.size();
+        int m = t.size();
+        unordered_map<char, int> required, inCurrentWindow;
+        int totRequired = 0;
+        for (auto ch : t) {
+            required[ch]++;
+            totRequired++;
         }
-        unordered_map<char, int> countInCurrentWindow;
-
         int left = 0;
-        string ans="";
-        for (int right = 0; right < s.size(); right++) {
-            char ch = s[right];
-
-            if (count[ch] > countInCurrentWindow[ch]) {
-                tot--;
+        string ans = "";
+        for (int right = 0; right < n; right++) {
+            inCurrentWindow[s[right]]++;
+            if (required[s[right]] >= inCurrentWindow[s[right]])
+                totRequired--;
+            while (left <= right &&
+                   required[s[left]] < inCurrentWindow[s[left]]) {
+                inCurrentWindow[s[left]]--;
+                left++;
             }
-            countInCurrentWindow[ch]++;
-            while (left <= right) {
-                char remove = s[left];
-                if (countInCurrentWindow[remove] > count[remove]) {
-                    countInCurrentWindow[remove]--;
-                    left++;
-                } else {
-                    break;
-                }
+            if (totRequired == 0) {
+                if (ans == "" || ans.size() > (right - left + 1))
+                    ans = s.substr(left, (right - left + 1));
             }
-            // cout<<left<<" "<<right<<" "<<tot<<" "<<ans.size()<<endl;
-            if (tot == 0 && (ans == "" || ans.size() >= (right - left + 1)))
-                ans = s.substr(left, (right - left + 1));
         }
         return ans;
     }
