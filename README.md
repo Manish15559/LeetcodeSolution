@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Manish15559/LeetcodeSolution/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manish15559/LeetcodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manish15559/LeetcodeSolution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Manish15559/LeetcodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Manish15559/LeetcodeSolution/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Manish15559/LeetcodeSolution/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0132-palindrome-partitioning-ii) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Manish15559/LeetcodeSolution/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Manish15559/LeetcodeSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0101-symmetric-tree) |
@@ -942,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Manish15559/LeetcodeSolution/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/Manish15559/LeetcodeSolution/tree/master/0401-binary-watch) |
