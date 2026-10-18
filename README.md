@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish15559/LeetcodeSolution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manish15559/LeetcodeSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Manish15559/LeetcodeSolution/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0432-all-oone-data-structure) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Manish15559/LeetcodeSolution/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish15559/LeetcodeSolution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/Manish15559/LeetcodeSolution/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/Manish15559/LeetcodeSolution/tree/master/0930-all-possible-full-binary-trees) |
