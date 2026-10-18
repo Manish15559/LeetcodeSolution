@@ -1,20 +1,24 @@
 class Solution {
 public:
     vector<int> canSeePersonsCount(vector<int>& heights) {
-        stack<int>minHeap;
-        int n=heights.size();
-        vector<int>ans(n,0);
-        for(int i=n-1;i>=0;i--){
-            int count=0;
-            while(!minHeap.empty()&&heights[minHeap.top()]<heights[i]){
+        int n = heights.size();
+        if (n == 0)
+            return {};
+
+        stack<int> minHeap;
+        vector<int> visiblePeople(n, 0);
+        for (int i = n - 1; i >= 0; i--) {
+            int count = 0;
+            while (!minHeap.empty() && heights[minHeap.top()] < heights[i]) {
+                minHeap.pop();
                 count++;
-               minHeap.pop();
             }
-            if(!minHeap.empty()) count++;
+            if (!minHeap.empty())
+                count++;
+            visiblePeople[i] = count;
+
             minHeap.push(i);
-            ans[i]=count;
         }
-        return ans;
-        
+        return visiblePeople;
     }
 };
