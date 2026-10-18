@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Manish15559/LeetcodeSolution/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Manish15559/LeetcodeSolution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Manish15559/LeetcodeSolution/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1472-design-browser-history](https://github.com/Manish15559/LeetcodeSolution/tree/master/1472-design-browser-history) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Manish15559/LeetcodeSolution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1483-rank-teams-by-votes](https://github.com/Manish15559/LeetcodeSolution/tree/master/1483-rank-teams-by-votes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manish15559/LeetcodeSolution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/Manish15559/LeetcodeSolution/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1017-odd-even-jump](https://github.com/Manish15559/LeetcodeSolution/tree/master/1017-odd-even-jump) |
+| [1472-design-browser-history](https://github.com/Manish15559/LeetcodeSolution/tree/master/1472-design-browser-history) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Manish15559/LeetcodeSolution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manish15559/LeetcodeSolution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Manish15559/LeetcodeSolution/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0432-all-oone-data-structure) |
+| [1472-design-browser-history](https://github.com/Manish15559/LeetcodeSolution/tree/master/1472-design-browser-history) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Manish15559/LeetcodeSolution/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0729-my-calendar-i) |
 | [0895-maximum-frequency-stack](https://github.com/Manish15559/LeetcodeSolution/tree/master/0895-maximum-frequency-stack) |
+| [1472-design-browser-history](https://github.com/Manish15559/LeetcodeSolution/tree/master/1472-design-browser-history) |
 | [1512-design-underground-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2013-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2013-detect-squares) |
@@ -1215,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Manish15559/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/Manish15559/LeetcodeSolution/tree/master/1472-design-browser-history) |
 | [2013-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2013-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
 ## Interactive
@@ -1274,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0432-all-oone-data-structure) |
+| [1472-design-browser-history](https://github.com/Manish15559/LeetcodeSolution/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Line Sweep
 |  |
