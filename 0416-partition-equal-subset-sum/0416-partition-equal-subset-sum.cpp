@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool helper(int idx, int required, vector<int>& nums, vector<vector<int>>&dp) {
+        if(required==0) return true;
         if (idx == 0) {
             return nums[idx] == required;
         }
@@ -25,6 +26,8 @@ public:
 
         int required = sum / 2;
         vector<vector<int>>dp(n,vector<int>(required+1,-1));
+
+        // dp[0][]
 
         return helper(n - 1, required, nums,dp);
     }
