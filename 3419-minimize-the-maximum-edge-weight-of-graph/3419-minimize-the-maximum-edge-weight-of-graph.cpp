@@ -8,35 +8,36 @@ public:
             int weight = edge[2];
             adj[node2].push_back({node1, weight});
         }
-        vector<int> dist(n, 1e9);
+        vector<int> vis(n, 0);
         priority_queue<pair<int, int>, vector<pair<int, int>>,
                        greater<pair<int, int>>>
             minHeap;
         minHeap.push({0, 0});
-        dist[0] = 0;
+        // vis[0] = 1;
+        int mx = 0;
         while (!minHeap.empty()) {
             auto it = minHeap.top();
             minHeap.pop();
             int weight = it.first;
             int node = it.second;
-            if (weight > dist[node])
+            if (vis[node])
                 continue;
+            vis[node] = 1;
+            mx = max(mx, weight);
             for (auto it : adj[node]) {
                 int adjNode = it.first;
                 int wt = it.second;
-                if (dist[adjNode] > max(wt, dist[node])) {
-                    dist[adjNode] = max(wt, dist[node]);
-                    minHeap.push({dist[adjNode], adjNode});
-                }
+                if (!vis[adjNode])
+                    minHeap.push({wt, adjNode});
             }
         }
 
-        int maxium = 0;
-        for (auto it : dist)
-            maxium = max(maxium, it);
+        for (auto it : vis) {
 
-            if(maxium==1e9) return -1;
+            if (it == 0)
+                return -1;
+        }
 
-        return maxium;
+        return mx;
     }
 };
