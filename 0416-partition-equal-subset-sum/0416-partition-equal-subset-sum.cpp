@@ -27,26 +27,23 @@ public:
             return false;
 
         int required = sum / 2;
-        vector<vector<int>> dp(n, vector<int>(required + 1, 0));
+        vector<int>prev(required+1,0),curr(required+1,0);
 
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = 1;
-        }
-        if (nums[0] <= required)
-            dp[0][nums[0]] = 1;
+       prev[0]=1;
 
         for (int idx = 1; idx < n; idx++) {
-            for (int sum = 1; sum <= required; sum++) {
-                bool op1 = dp[idx - 1][sum];
+            for (int sum = 0; sum <= required; sum++) {
+                bool op1 = prev[sum];
                 bool op2 = false;
                 if (sum >= nums[idx]) {
-                    op2 = dp[idx - 1][sum - nums[idx]];
+                    op2 = prev[sum - nums[idx]];
                 }
 
-                dp[idx][sum] = op1 || op2;
+                curr[sum] = op1 || op2;
             }
+            prev=curr;
         }
 
-        return dp[n - 1][required];
+        return prev[required];
     }
 };
