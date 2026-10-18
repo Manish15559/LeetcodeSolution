@@ -10,40 +10,54 @@
  */
 class Solution {
 public:
-    //find kth node
-    ListNode* findkthNode(ListNode *node,int k){
-        while(k>0&&node!=NULL){
+    ListNode* findKthNode(ListNode* node, int k) {
+        k--;
+        while (node != NULL && k > 0) {
+            node = node->next;
             k--;
-            node=node->next;
-
         }
         return node;
     }
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode *dummy = new ListNode(-1,head);
-
-        ListNode *curr=dummy;
-        while(curr->next!=NULL){
-            ListNode *kthNode = findkthNode(curr,k);
-            if(kthNode==NULL) break;
-            ListNode *nextGroup =kthNode->next;
-            kthNode->next = NULL;
-
-            ListNode *temp=curr->next;
-            ListNode *prev=NULL;
-            while(temp){
-                ListNode *nextNode = temp->next;
-                temp->next=prev;
-                prev=temp;
-                temp=nextNode;
-            }
-            temp = curr->next;
-            curr->next=kthNode;
-            temp->next=nextGroup;
-            curr=temp;
+    void reverse(ListNode* node) {
+        ListNode* prev = NULL;
+        ListNode* curr = node;
+        while (curr != NULL) {
+            // cout<<curr->val<<" ";
+            ListNode* nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
         }
-        return dummy->next;
-
+        // cout<<endl;
         
+        // return prev;
+    }
+    ListNode* reverseKGroup(ListNode* head, int k) {
+
+        ListNode* temp = head;
+        ListNode* previousGroupNode = NULL;
+        while (temp != NULL) {
+            ListNode* kthNode = findKthNode(temp, k);
+            
+            if (kthNode == NULL) {
+                if(temp!=head) previousGroupNode ->next =  temp;
+
+                break;
+            }
+            ListNode* nextGroupStartNode = kthNode->next;
+            kthNode->next = NULL;
+            // cout<<kthNode->val<<endl;
+            reverse(temp);
+            if (previousGroupNode != NULL) {
+                previousGroupNode->next = kthNode;
+
+            } else {
+                head = kthNode;
+            }
+            previousGroupNode = temp;
+
+            temp = nextGroupStartNode;
+        }
+        return head;
     }
 };
