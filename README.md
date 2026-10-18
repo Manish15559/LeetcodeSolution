@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manish15559/LeetcodeSolution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Manish15559/LeetcodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Manish15559/LeetcodeSolution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Manish15559/LeetcodeSolution/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Manish15559/LeetcodeSolution/tree/master/0127-word-ladder) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Manish15559/LeetcodeSolution/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Manish15559/LeetcodeSolution/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manish15559/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Manish15559/LeetcodeSolution/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Manish15559/LeetcodeSolution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
