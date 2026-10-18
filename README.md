@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3453-separate-squares-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manish15559/LeetcodeSolution/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/3249-count-the-number-of-good-nodes) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -1185,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Manish15559/LeetcodeSolution/tree/master/1514-path-with-maximum-probability) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manish15559/LeetcodeSolution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Counting
 |  |
@@ -1327,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/2603-collect-coins-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manish15559/LeetcodeSolution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
