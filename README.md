@@ -1483,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Manish15559/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
 ## Directed Acyclic Graph
 |  |
