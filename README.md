@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/Manish15559/LeetcodeSolution/tree/master/0528-random-pick-with-weight) |
+| [0690-employee-importance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Manish15559/LeetcodeSolution/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Manish15559/LeetcodeSolution/tree/master/0814-binary-tree-pruning) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Manish15559/LeetcodeSolution/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Manish15559/LeetcodeSolution/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Manish15559/LeetcodeSolution/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Manish15559/LeetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Manish15559/LeetcodeSolution/tree/master/0785-is-graph-bipartite) |
@@ -1002,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
+| [0690-employee-importance](https://github.com/Manish15559/LeetcodeSolution/tree/master/0690-employee-importance) |
 | [0778-reorganize-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0778-reorganize-string) |
 | [0815-bus-routes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/0839-similar-string-groups) |
