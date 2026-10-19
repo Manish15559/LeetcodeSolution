@@ -3,18 +3,18 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> dp(n, 1);
+        vector<int> ans;
+
         for (int i = 0; i < n; i++) {
-            for (int j = i - 1; j >= 0; j--) {
-                if (nums[i] > nums[j])
-                    dp[i] = max(dp[i], (1 + dp[j]));
+            if (ans.size() == 0 || ans.back() < nums[i]) {
+                ans.push_back(nums[i]);
+                continue;
             }
+            int idx =
+                lower_bound(ans.begin(), ans.end(), nums[i]) - ans.begin();
+            if (idx != ans.size())
+                ans[idx] = nums[i];
         }
-
-        int maxLength = 0;
-        for (auto it : dp)
-            maxLength = max(it, maxLength);
-
-        return maxLength;
+        return ans.size();
     }
 };
