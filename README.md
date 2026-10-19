@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Manish15559/LeetcodeSolution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0045-jump-game-ii) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
