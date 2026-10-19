@@ -1,29 +1,32 @@
 class Solution {
 public:
-    string longest(int l,int r,string &s,int n){
-        while(l>0&&r<(n-1)&&s[l-1]==s[r+1]){
-            l--;
-            r++;
+    bool isPalindrome(string& s, int left, int right) {
+        while (right > left) {
+            if (s[left] != s[right])
+                return false;
+            left++;
+            right--;
         }
-
-        return s.substr(l,(r-l+1));
+        return true;
     }
     string longestPalindrome(string s) {
-    int n=s.size();
-    // int ans=1;
-    string ans;
 
-    for(int i=0;i<n;i++){
-        if(i>0&&s[i]==s[i-1]) {
-            string str =longest(i-1,i,s,n);
-            if(ans.size()<str.size()) ans=str;
+        int n = s.size();
+        if (n == 0)
+            return "";
+        int left = 0;
+        int right = 0;
+        for (int l = 0; l < n; l++) {
+            for (int r = l + 1; r < n; r++) {
+                if (isPalindrome(s, l, r)) {
+                    if ((right - left + 1) < (r - l + 1)) {
+                        left = l;
+                        right = r;
+                    }
+                }
+            }
         }
-         string str =longest(i,i,s,n);
-            if(ans.size()<str.size()) ans=str;
-       
 
-    }
-    return ans;
-        
+        return s.substr(left, (right - left + 1));
     }
 };
