@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Manish15559/LeetcodeSolution/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manish15559/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Manish15559/LeetcodeSolution/tree/master/0514-freedom-trail) |
 | [0639-decode-ways-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0639-decode-ways-ii) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Manish15559/LeetcodeSolution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Manish15559/LeetcodeSolution/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manish15559/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Manish15559/LeetcodeSolution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manish15559/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Manish15559/LeetcodeSolution/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
