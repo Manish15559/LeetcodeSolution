@@ -1,59 +1,71 @@
-class DisJoint{
-    vector<int>size,parent;
+class DisJointSet {
+public:
+    vector<int> parent;
+    vector<int> size;
 
-    public:
-    DisJoint(int n){
-        parent.resize(n+1);
-        size.resize(n+1,1);
-        for(int i=0;i<n;i++) parent[i]=i;
+    DisJointSet(int n) {
+        size.resize(n, 0);
+        parent.resize(n,0);
+
+        for (int i = 1; i < n; i++)
+            parent[i] = i;
     }
 
-    int findParent(int n){
-        if(n==parent[n]) return n;
-        return parent[n]=findParent(parent[n]);
+    int findUltimateParent(int node) {
+        if (node == parent[node])
+            return node;
+        return parent[node] = findUltimateParent(parent[node]);
     }
 
-    void unionByRank(int u,int v){
-        int x=findParent(u);
-        int y=findParent(v);
-        if(x==y) return;
-        if(size[x]>size[y]){
-            size[x]+=size[y];
-            parent[y]=x;
+    void unionBySize(int node1, int node2) {
+
+        int ultimateParentOfNode1 = findUltimateParent(node1);
+        int ultimateParentOfNode2 = findUltimateParent(node2);
+
+        if (ultimateParentOfNode1 == ultimateParentOfNode2)
+            return;
+
+        if (size[ultimateParentOfNode1] > size[ultimateParentOfNode2]) {
+            size[ultimateParentOfNode1] += size[ultimateParentOfNode2];
+            parent[ultimateParentOfNode2] = ultimateParentOfNode1;
+           
+
+        } else {
+            size[ultimateParentOfNode2] += size[ultimateParentOfNode1];
+            parent[ultimateParentOfNode1] = ultimateParentOfNode2;
+          
         }
-        else{
-            size[y]+=size[x];
-            parent[x]=y;
-        }
     }
-
 };
 class Solution {
 public:
     int largestComponentSize(vector<int>& nums) {
-    int mx =*max_element(nums.begin(),nums.end());
-    DisJoint *obj= new DisJoint(mx+1);
-    for(auto it:nums){
-        for(int i=2;i*i<=it;i++){
-            if((it%i)==0) {
-                // cout<<i<<" "<<it<<endl;
-                obj->unionByRank(it,i);
-                obj->unionByRank(it,it/i);
+
+        int maxNum = *max_element(nums.begin(), nums.end());
+
+        DisJointSet* graph = new DisJointSet(maxNum + 1);
+
+        for (int node : nums) {
+
+            for (int i = 2; i * i <= node; i++) {
+                if(node%i==0){
+
+                graph->unionBySize(i, node);
+                graph->unionBySize(node/i, node);
+                }
             }
         }
-    }
 
-    unordered_map<int,int>cnt;
-    int ans=0;
-    for(auto it:nums){
-        int parent= obj->findParent(it);
-        // cout<<parent<<endl;
-        
-        cnt[parent]++;
-        ans=max(ans,cnt[parent]);
-    }
+        vector<int> count(maxNum + 1, 0);
+        int maximumCount = 0;
 
-    return ans;
-        
+        for (auto node : nums) {
+
+            int ultiParentNode = graph->findUltimateParent(node);
+            count[ultiParentNode]++;
+            maximumCount = max(maximumCount, count[ultiParentNode]);
+        }
+
+        return maximumCount;
     }
 };
