@@ -1,13 +1,13 @@
 class Solution {
 public:
-    bool isPalindrome(string& s, int left, int right) {
-        while (right > left) {
-            if (s[left] != s[right])
-                return false;
-            left++;
-            right--;
+    pair<int,int> findLongestPalindrome(string& s, int left, int right, int n) {
+        while (left>=0&&right<n&&s[left] == s[right]) {
+           
+            left--;
+            right++;
+            // if(left==0||right)
         }
-        return true;
+        return {left+1, right-1};
     }
     string longestPalindrome(string s) {
 
@@ -16,16 +16,28 @@ public:
             return "";
         int left = 0;
         int right = 0;
-        for (int l = 0; l < n; l++) {
-            for (int r = l + 1; r < n; r++) {
-                if (isPalindrome(s, l, r)) {
-                    if ((right - left + 1) < (r - l + 1)) {
-                        left = l;
-                        right = r;
-                    }
+
+        for (int idx = 0; idx < n; idx++) {
+           
+
+            if (idx > 0 && s[idx - 1] == s[idx]) {
+                pair<int, int> rangeOfPalindrome =
+                    findLongestPalindrome(s, idx - 1, idx, n);
+                if ((right - left + 1) <
+                    (rangeOfPalindrome.second - rangeOfPalindrome.first + 1)) {
+                    right = rangeOfPalindrome.second;
+                    left = rangeOfPalindrome.first;
                 }
             }
+            pair<int, int> rangeOfPalindrome =
+                findLongestPalindrome(s, idx, idx, n);
+            if ((right - left + 1) <
+                (rangeOfPalindrome.second - rangeOfPalindrome.first + 1)) {
+                right = rangeOfPalindrome.second;
+                left = rangeOfPalindrome.first;
+            }
         }
+        cout<<left<<" "<<right<<endl;
 
         return s.substr(left, (right - left + 1));
     }
