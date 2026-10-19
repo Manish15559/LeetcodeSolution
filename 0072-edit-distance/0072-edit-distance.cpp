@@ -22,26 +22,28 @@ public:
 
         int n = word1.size();
         int m = word2.size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
-        for (int i = 1; i <= n; i++)
-            dp[i][0] = i;
+        // vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        vector<int> prev(m + 1, 0), curr(m + 1, 0);
+
         for (int i = 1; i <= m; i++)
-            dp[0][i] = i;
+            prev[i] = i;
 
         for (int idx1 = 1; idx1 <= n; idx1++) {
+            curr[0] = idx1;
             for (int idx2 = 1; idx2 <= m; idx2++) {
                 if (word1[idx1 - 1] == word2[idx2 - 1])
-                    dp[idx1][idx2] = dp[idx1 - 1][idx2 - 1];
+                    curr[idx2] = prev[idx2 - 1];
                 else {
-                    int op1 = dp[idx1][idx2 - 1];
-                    int op2 = dp[idx1 - 1][idx2];
-                    int op3 = dp[idx1 - 1][idx2 - 1];
+                    int op1 = curr[idx2 - 1];
+                    int op2 = prev[idx2];
+                    int op3 = prev[idx2 - 1];
 
-                    dp[idx1][idx2] = (1 + min({op1, op2, op3}));
+                    curr[idx2] = (1 + min({op1, op2, op3}));
                 }
             }
+            prev = curr;
         }
 
-        return dp[n][m];
+        return prev[m];
     }
 };
