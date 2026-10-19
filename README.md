@@ -1469,4 +1469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manish15559/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
