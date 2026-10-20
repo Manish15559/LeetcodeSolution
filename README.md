@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2402-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2402-meeting-rooms-iii) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Manish15559/LeetcodeSolution/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2488-count-subarrays-with-median-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/2488-count-subarrays-with-median-k) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Manish15559/LeetcodeSolution/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2402-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2402-meeting-rooms-iii) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Manish15559/LeetcodeSolution/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2402-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2402-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [2488-count-subarrays-with-median-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/2488-count-subarrays-with-median-k) |
@@ -1101,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Manish15559/LeetcodeSolution/tree/master/2211-count-collisions-on-a-road) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Manish15559/LeetcodeSolution/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
