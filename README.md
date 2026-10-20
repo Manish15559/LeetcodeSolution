@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3026-maximum-good-subarray-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manish15559/LeetcodeSolution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Manish15559/LeetcodeSolution/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3152-special-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3152-special-array-ii) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3277-maximum-xor-score-subarray-queries](https://github.com/Manish15559/LeetcodeSolution/tree/master/3277-maximum-xor-score-subarray-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3152-special-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3152-special-array-ii) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3453-separate-squares-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3453-separate-squares-i) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
 | [3026-maximum-good-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3026-maximum-good-subarray-sum) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3152-special-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3152-special-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-zero-array-transformation-ii) |
