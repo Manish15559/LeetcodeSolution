@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/2755-extra-characters-in-a-string) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Manish15559/LeetcodeSolution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Manish15559/LeetcodeSolution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3152-special-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3152-special-array-ii) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Manish15559/LeetcodeSolution/tree/master/2625-increment-submatrices-by-one) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2479-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -964,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Manish15559/LeetcodeSolution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Manish15559/LeetcodeSolution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -1418,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Manish15559/LeetcodeSolution/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
