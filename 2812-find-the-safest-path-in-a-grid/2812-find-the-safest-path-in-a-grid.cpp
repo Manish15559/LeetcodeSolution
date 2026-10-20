@@ -35,12 +35,12 @@ public:
         }
     }
 
-    bool check(int val, vector<vector<int>>& spreadGrid, int n) {
-        if (val > spreadGrid[0][0])
+    bool check(int safe, vector<vector<int>>& spreadGrid, int n) {
+        if (safe > spreadGrid[0][0])
             return false;
-        vector<vector<int>> dist(n, vector<int>(n, -1));
+        vector<vector<int>> vis(n, vector<int>(n, 0));
         queue<pair<int, int>> q;
-        dist[0][0] = spreadGrid[0][0];
+        vis[0][0] = 1;
 
         q.push({0, 0});
         while (!q.empty()) {
@@ -49,20 +49,21 @@ public:
             q.pop();
             int dx[] = {-1, 1, 0, 0};
             int dy[] = {0, 0, -1, 1};
+            if(row==(n-1)&&col==(n-1)) return true;
             
             for (int idx = 0; idx < 4; idx++) {
                 int nrow = row + dx[idx];
                 int ncol = col + dy[idx];
-                if (isValid(nrow, ncol, n) && dist[nrow][ncol] == -1 &&
-                    spreadGrid[nrow][ncol] >= val) {
+                if (isValid(nrow, ncol, n) && !vis[nrow][ncol]  &&
+                    spreadGrid[nrow][ncol] >= safe) {
                         
-                    dist[nrow][ncol] = min(dist[row][col], spreadGrid[nrow][ncol]);
+                   vis[nrow][ncol]=1;
                     q.push({nrow, ncol});
                 }
             }
         }
        
-        return dist[n - 1][n - 1] >= val;
+        return false;
     }
     int maximumSafenessFactor(vector<vector<int>>& grid) {
         int n = grid.size();
