@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manish15559/LeetcodeSolution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Manish15559/LeetcodeSolution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Manish15559/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manish15559/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Manish15559/LeetcodeSolution/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manish15559/LeetcodeSolution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manish15559/LeetcodeSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Manish15559/LeetcodeSolution/tree/master/0146-lru-cache) |
