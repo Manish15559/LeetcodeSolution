@@ -3,47 +3,32 @@ public:
     int countSquares(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>> prefSum(n, vector<int>(m, 0));
-        for (int row = 0; row < n; row++) {
-            for (int col = 0; col < m; col++) {
-                int sum = matrix[row][col];
-                if (row > 0)
-                    sum += prefSum[row - 1][col];
-                if (col > 0)
-                    sum += prefSum[row][col - 1];
-                if (row > 0 && col > 0)
-                    sum -= prefSum[row - 1][col - 1];
-                prefSum[row][col] = sum;
-               
-            }
-          
-        }
+        vector<vector<int>> dp(n, vector<int>(m, 0));
         int ans = 0;
-        for (int row2 = 0; row2 < n; row2++) {
-            for (int col2 = 0; col2 < m; col2++) {
-                int sz = 1;
-                int row1 = row2;
-                int col1 = col2;
-                while (row1 >= 0 && col1 >= 0) {
-
-                    int requiredOne = sz * sz;
-                    int countOne = prefSum[row2][col2];
-                    if (row1 > 0)
-                        countOne -= prefSum[row1 - 1][col2];
-                    if (col1 > 0)
-                        countOne -= prefSum[row2][col1 - 1];
-                    if (row1 > 0 && col1 > 0)
-                        countOne+=prefSum[row1 - 1][col1 - 1];
-                         
-                    if (countOne == requiredOne){
-                       
-                        ans++;
-                    }
-                    sz++;
-                    row1--;
-                    col1--;
-                }
+        for (int i = 0; i < n; i++) {
+            if (matrix[i][0] == 1) {
+                dp[i][0]++;
+                ans++;
             }
+        }
+        for (int j = 1; j < m; j++) {
+            if (matrix[0][j] == 1) {
+                dp[0][j]++;
+                ans++;
+            }
+        }
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
+                
+                if (matrix[i][j]==1) {
+                    int mini = min({dp[i - 1][j - 1], dp[i][j - 1], dp[i - 1][j]});
+                   
+                    dp[i][j] = 1 + mini;
+                    ans += dp[i][j];
+                }
+                // cout<<dp[i][j]<<" ";
+            }
+            // cout<<endl;
         }
         return ans;
     }
