@@ -17,6 +17,9 @@ public:
                        ans);
                 curr.pop_back();
             }
+            else{
+                break;
+            }
         }
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
