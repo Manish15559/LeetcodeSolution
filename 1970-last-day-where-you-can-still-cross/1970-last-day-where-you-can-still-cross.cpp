@@ -21,10 +21,15 @@ public:
             return;
         if (rank[ultiParentNode1] > rank[ultiParentNode2]) {
             parent[ultiParentNode2] = ultiParentNode1;
-            rank[ultiParentNode1]++;
-        } else {
+           
+        } else if(rank[ultiParentNode1] < rank[ultiParentNode2]) {
             parent[ultiParentNode1] = ultiParentNode2;
-            rank[ultiParentNode2]++;
+           
+        }
+        else{
+             parent[ultiParentNode1] = ultiParentNode2;
+             rank[ultiParentNode2]++;
+
         }
     }
 };
