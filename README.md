@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2157-groups-of-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/2157-groups-of-strings) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Manish15559/LeetcodeSolution/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2166-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/Manish15559/LeetcodeSolution/tree/master/2188-minimum-time-to-finish-the-race) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Manish15559/LeetcodeSolution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Manish15559/LeetcodeSolution/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2157-groups-of-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/2157-groups-of-strings) |
+| [2166-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2166-design-bitset) |
 | [2211-count-collisions-on-a-road](https://github.com/Manish15559/LeetcodeSolution/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Manish15559/LeetcodeSolution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Manish15559/LeetcodeSolution/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2157-groups-of-strings](https://github.com/Manish15559/LeetcodeSolution/tree/master/2157-groups-of-strings) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
+| [2166-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
 | [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Manish15559/LeetcodeSolution/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1219,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/Manish15559/LeetcodeSolution/tree/master/2080-range-frequency-queries) |
 | [2139-detect-squares](https://github.com/Manish15559/LeetcodeSolution/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/Manish15559/LeetcodeSolution/tree/master/2161-stock-price-fluctuation) |
+| [2166-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
 | [2285-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2434-design-a-number-container-system) |
