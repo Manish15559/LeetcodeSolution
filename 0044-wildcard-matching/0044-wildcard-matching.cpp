@@ -21,9 +21,12 @@ public:
     bool isMatch(string s, string p) {
         int n = s.size();
         int m = p.size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
-        dp[n][m] = 1;
+        // vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        vector<int>curr(m+1,0),prev(m+1,0);
+        // prev[m] = 1;
+        // curr[m]=1;
         for (int idx1 = n; idx1 >= 0; idx1--) {
+             curr[m] = (idx1 == n);
             for (int idx2 = m - 1; idx2 >= 0; idx2--) {
                 bool isMatch =
                     (idx1 < s.size()) &&
@@ -31,14 +34,15 @@ public:
                 bool result;
                 if (p[idx2] == '*') {
                     result =
-                        dp[idx1][idx2 + 1] || (isMatch && dp[idx1 + 1][idx2]);
+                        curr[idx2 + 1] || (isMatch && prev[idx2]);
                 } else {
-                    result = isMatch && dp[idx1 + 1][idx2 + 1];
+                    result = isMatch && prev[idx2 + 1];
                 }
-                dp[idx1][idx2] = result;
+                curr[idx2] = result;
             }
+            prev=curr;
         }
 
-        return dp[0][0];
+        return prev[0];
     }
 };
