@@ -1,34 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        vector<vector<int>>ans;
 
-        vector<vector<int>> triplets;
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-
-        for (int i = 0; i < n; i++) {
-            if (i > 0 && nums[i] == nums[i - 1])
-                continue;
-            int left = i + 1;
-            int right = n - 1;
-            while (left < right) {
-                int tot = nums[i] + nums[left] + nums[right];
-
-                if (tot < 0)
+        for(int idx=0;idx<n;idx++){
+            if(idx>0&&nums[idx]==nums[idx-1]) continue;
+            int left=idx+1;
+            int right=n-1;
+            while(left<right){
+                if((left)>(idx+1)&&nums[left]==nums[left-1]){
                     left++;
-                else if (tot > 0)
-                    right--;
-                else {
-                    triplets.push_back({nums[i], nums[left], nums[right]});
-                    left++;
-                    right--;
-                    while (left < right && nums[left] == nums[left - 1])
-                        left++;
-                    while (left < right && nums[right] == nums[right + 1])
-                        right--;
+                    continue;
                 }
+                if((right<(n-1)&&nums[right]==nums[right+1])) {
+                    right--;
+                    continue;
+                }
+                int sum=(nums[idx]+nums[left]+nums[right]);
+                if(sum==0) {
+                    ans.push_back({nums[idx],nums[left],nums[right]}); 
+                    left++;
+                    right--;
+                }
+                else if (sum<0) left++;
+                else right--;
             }
         }
-        return triplets;
+        return ans;
+        
     }
 };
