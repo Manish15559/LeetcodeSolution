@@ -1,42 +1,38 @@
 class RandomizedSet {
 public:
-    unordered_map<int,int>mp;  //value, idx at they store in
-    vector<int>arr;
-    RandomizedSet() {
-        
+    unordered_map<int, int> presentNum;
+    vector<int> nums;
+    RandomizedSet() {}
 
-        
-    }
-    bool search(int val){
-        if(mp.find(val)==mp.end()) return false;
-        return true;
-    }
-    
     bool insert(int val) {
-        if(search(val)) return false;
-        arr.push_back(val);
-        mp[val]=arr.size()-1;
+        if (presentNum.find(val) != presentNum.end())
+            return false;
+        nums.push_back(val);
+        int length=nums.size();
+        presentNum[val] = (length - 1);
         return true;
-        
     }
-    
+
     bool remove(int val) {
-        if(search(val)==false) return false;
-        auto it=mp.find(val);
-        int idx=it->second;
-        arr[idx]=arr.back();
-        arr.pop_back();
-        mp[arr[idx]] =idx;
-        mp.erase(val);
+        if (presentNum.find(val) == presentNum.end())
+            return false;
+        int idx = presentNum[val];
+        int length = nums.size();
+        if (idx != (length - 1)) {
+
+            presentNum[nums[length-1]] = idx;
+            swap(nums[idx], nums[length - 1]);
+        }
+
+        nums.pop_back();
+        presentNum.erase(val);
         return true;
-
-
-        
     }
-    
+
     int getRandom() {
-        return (arr[rand()%arr.size()]);
-        
+        int length=nums.size();
+        int idx=rand()%length;
+        return nums[idx];
     }
 };
 
