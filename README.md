@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3453-separate-squares-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Manish15559/LeetcodeSolution/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Manish15559/LeetcodeSolution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3201-distribute-candies-among-children-ii) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Manish15559/LeetcodeSolution/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Manish15559/LeetcodeSolution/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Manish15559/LeetcodeSolution/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Manish15559/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
