@@ -1607,4 +1607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manish15559/LeetcodeSolution/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
