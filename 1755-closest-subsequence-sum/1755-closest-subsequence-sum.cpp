@@ -1,33 +1,31 @@
 class Solution {
 public:
-    void find(int idx, int curr, int limit, vector<int>& nums,
-              vector<int>& arr) {
-        if (idx == limit) {
-            arr.push_back(curr);
+    void helper(int idx,int sum,int n,vector<int>&nums,vector<int>&result){
+        if(idx==n){
+            result.push_back(sum);
             return;
         }
-        find(idx + 1, curr + nums[idx], limit, nums, arr);
-        find(idx + 1, curr, limit, nums, arr);
+        helper(idx+1,sum,n,nums,result);
+        helper(idx+1,(sum+nums[idx]),n,nums,result);
     }
-
     int minAbsDifference(vector<int>& nums, int goal) {
-        int n = nums.size();
-        int mid = n / 2;
-        vector<int> firstHalf, secondHalf;
-        find(0, 0, mid, nums, firstHalf);
-        find(mid, 0, n, nums, secondHalf);
-        sort(firstHalf.begin(), firstHalf.end());
-        int ans = 1e9;
-        for (auto it : secondHalf) {
-            int val = goal - it;
-            int idx = upper_bound(firstHalf.begin(), firstHalf.end(), val) -
-                      firstHalf.begin();
-                    
-            if (idx != firstHalf.size())
-                ans = min(ans, abs(val - firstHalf[idx]));
-            if(idx>0) ans = min(ans, abs(val - firstHalf[idx - 1]));
+        int n=nums.size();
+        int mid=(n+1)/2;
+        vector<int>firstHalf;
+        helper(0,0,mid,nums,firstHalf);        
+        vector<int>rightHalf;
+        helper(mid,0,n,nums,rightHalf);
+        sort(rightHalf.begin(),rightHalf.end());
+        int ans=1e9;
+        for(auto it:firstHalf){
+            int req=goal-it;
+            int idx=upper_bound(rightHalf.begin(),rightHalf.end(),req)-rightHalf.begin();
+            if(idx!=rightHalf.size()) ans=min(ans,abs((req-rightHalf[idx])));
+            if(idx>0) ans=min(ans,abs((req-rightHalf[idx-1])));
         }
-
         return ans;
+
+
+        
     }
 };
