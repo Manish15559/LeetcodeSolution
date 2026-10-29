@@ -19,7 +19,7 @@ public:
         int ans=1e9;
         for(auto it:firstHalf){
             int req=goal-it;
-            int idx=upper_bound(rightHalf.begin(),rightHalf.end(),req)-rightHalf.begin();
+            int idx=lower_bound(rightHalf.begin(),rightHalf.end(),req)-rightHalf.begin();
             if(idx!=rightHalf.size()) ans=min(ans,abs((req-rightHalf[idx])));
             if(idx>0) ans=min(ans,abs((req-rightHalf[idx-1])));
         }
