@@ -1633,4 +1633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/1755-closest-subsequence-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
