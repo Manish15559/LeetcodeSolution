@@ -6,25 +6,28 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    TreeNode *prev=NULL;
-    void reversePreorder(TreeNode *node,TreeNode* &prev){
-        if(node==NULL) return;
-        reversePreorder(node->right,prev);
-        reversePreorder(node->left,prev);
-        node->left=NULL;
-        node->right=prev;
-        prev=node;
-    }
     void flatten(TreeNode* root) {
-        if (root == NULL)
-            return;
-        TreeNode *prev=NULL;
-        reversePreorder(root,prev);
+        TreeNode *curr=root;
+
+        while(curr){
+            
+            if(curr->left){
+
+                TreeNode *rightMost=curr->left;
+                while(rightMost->right) rightMost=rightMost->right;
+                rightMost->right=curr->right;
+                curr->right=curr->left;
+                curr->left=NULL;
+            }
+            curr=curr->right;
+
+
+        }
+        
     }
 };
