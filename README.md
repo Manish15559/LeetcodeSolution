@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manish15559/LeetcodeSolution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Manish15559/LeetcodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Manish15559/LeetcodeSolution/tree/master/0239-sliding-window-maximum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0212-word-search-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manish15559/LeetcodeSolution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Manish15559/LeetcodeSolution/tree/master/0399-evaluate-division) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Manish15559/LeetcodeSolution/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Manish15559/LeetcodeSolution/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Manish15559/LeetcodeSolution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1075,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Manish15559/LeetcodeSolution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0212-word-search-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/Manish15559/LeetcodeSolution/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Manish15559/LeetcodeSolution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1086,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Manish15559/LeetcodeSolution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Manish15559/LeetcodeSolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Manish15559/LeetcodeSolution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Manish15559/LeetcodeSolution/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/1826-maximum-xor-with-an-element-from-array) |
