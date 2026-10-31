@@ -1,25 +1,26 @@
 class Solution {
 public:
-    int maxProfit(int k, vector<int>& Arr) {
-        int n=Arr.size();
-          vector<vector<int>> ahead(2, vector<int>(k + 1, 0));
-    vector<vector<int>> cur(2, vector<int>(k + 1, 0));
+    int maxProfit(int k, vector<int>& prices) {
 
-    for (int ind = n - 1; ind >= 0; ind--) {
-        for (int buy = 0; buy <= 1; buy++) {
-            for (int cap = 1; cap <= k; cap++) {
-                if (buy == 0) { // We can buy the stock
-                    cur[buy][cap] = max(0 + ahead[0][cap], -Arr[ind] + ahead[1][cap]);
-                } else { // We can sell the stock
-                    cur[buy][cap] = max(0 + ahead[1][cap], Arr[ind] + ahead[0][cap - 1]);
+        int n = prices.size();
+        vector<vector<vector<int>>> dp(
+            n + 1, vector<vector<int>>(k+1, vector<int>(2, 0)));
+
+        for (int idx = n - 1; idx >= 0; idx--) {
+            for (int sell = 1; sell <= k; sell++) {
+                for (int isBuying = 0; isBuying <= 1; isBuying++) {
+                    int noAction = dp[idx + 1][sell][isBuying];
+                    int action;
+                    if (isBuying) {
+                        action = dp[idx + 1][sell][0] - prices[idx];
+                    } else {
+                        action = dp[idx + 1][sell - 1][1] + prices[idx];
+                    }
+                    dp[idx][sell][isBuying] = max(action, noAction);
                 }
             }
         }
-        // Update the 'ahead' array with the current values
-        ahead = cur;
-    }
 
-    return ahead[0][k];
-        
+        return dp[0][k][1];
     }
 };
