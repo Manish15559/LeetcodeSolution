@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Manish15559/LeetcodeSolution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Manish15559/LeetcodeSolution/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manish15559/LeetcodeSolution/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Manish15559/LeetcodeSolution/tree/master/0398-random-pick-index) |
 | [0458-poor-pigs](https://github.com/Manish15559/LeetcodeSolution/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Manish15559/LeetcodeSolution/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/Manish15559/LeetcodeSolution/tree/master/0528-random-pick-with-weight) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manish15559/LeetcodeSolution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Manish15559/LeetcodeSolution/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manish15559/LeetcodeSolution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish15559/LeetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/Manish15559/LeetcodeSolution/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manish15559/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Manish15559/LeetcodeSolution/tree/master/0761-special-binary-string) |
