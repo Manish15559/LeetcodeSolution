@@ -6,39 +6,33 @@ public:
         vector<long long> prev2((r - l + 2), 1), curr2((r - l + 2), 0);
         bool f = true;
         int mod = 1e9 + 7;
-      
+
         for (int i = 1; i < n; i++) {
-           
+
             long long total2 = 0;
             long long total1 = 0;
-            if (f == true) {
-                  
-                for (int idx = 1; idx <= (r - l + 1); idx++) {
-                 
+
+            for (int idx = 1; idx <= (r - l + 1); idx++) {
+                if (f == true) {
                     curr2[idx] = total2;
                     total2 += prev2[idx];
                     total2 %= mod;
-                }
-                 
-                for (int idx = (r - l + 1); idx >= 1; idx--) {
+                    int idx2 = (r - l + 1 - idx + 1);
+                    curr1[idx2] = total1;
+                    total1 += prev1[idx2];
+                    total1 %= mod;
+                } else {
                     curr1[idx] = total1;
                     total1 += prev1[idx];
                     total1 %= mod;
-                }
-            } else {
-                for (int idx = 1; idx <= (r - l + 1); idx++) {
-                    curr1[idx] = total1;
-                    total1 += prev1[idx];
-                    total1 %= mod;
-                }
-                for (int idx = (r - l + 1); idx >= 1; idx--) {
-                    curr2[idx] = total2;
-                    total2 += prev2[idx];
+                    int idx2 = (r - l + 1 - idx + 1);
+                    curr2[idx2] = total2;
+                    total2 += prev2[idx2];
                     total2 %= mod;
                 }
             }
             f = !f;
-           
+
             prev1 = curr1;
             prev2 = curr2;
         }
