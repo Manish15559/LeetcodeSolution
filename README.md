@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2166-design-bitset](https://github.com/Manish15559/LeetcodeSolution/tree/master/2166-design-bitset) |
 | [2169-simple-bank-system](https://github.com/Manish15559/LeetcodeSolution/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manish15559/LeetcodeSolution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Manish15559/LeetcodeSolution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/Manish15559/LeetcodeSolution/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Manish15559/LeetcodeSolution/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Manish15559/LeetcodeSolution/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Manish15559/LeetcodeSolution/tree/master/2054-two-best-non-overlapping-events) |
 | [2080-range-frequency-queries](https://github.com/Manish15559/LeetcodeSolution/tree/master/2080-range-frequency-queries) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Manish15559/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Manish15559/LeetcodeSolution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Manish15559/LeetcodeSolution/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Manish15559/LeetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manish15559/LeetcodeSolution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
