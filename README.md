@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish15559/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/Manish15559/LeetcodeSolution/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Manish15559/LeetcodeSolution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Manish15559/LeetcodeSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manish15559/LeetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Manish15559/LeetcodeSolution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3547-maximum-sum-of-edge-values-in-a-graph](https://github.com/Manish15559/LeetcodeSolution/tree/master/3547-maximum-sum-of-edge-values-in-a-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Manish15559/LeetcodeSolution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manish15559/LeetcodeSolution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
