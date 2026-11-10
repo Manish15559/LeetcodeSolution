@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Manish15559/LeetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Manish15559/LeetcodeSolution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3693-climbing-stairs-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Manish15559/LeetcodeSolution/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3640-trionic-array-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Manish15559/LeetcodeSolution/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3693-climbing-stairs-ii](https://github.com/Manish15559/LeetcodeSolution/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manish15559/LeetcodeSolution/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3831-find-x-value-of-array-i](https://github.com/Manish15559/LeetcodeSolution/tree/master/3831-find-x-value-of-array-i) |
