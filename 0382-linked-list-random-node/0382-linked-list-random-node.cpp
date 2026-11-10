@@ -10,21 +10,30 @@
  */
 class Solution {
 public:
-    vector<int>arr;
+    int count;
+    ListNode* head;
     Solution(ListNode* head) {
-        ListNode *node=head;
-        while(node!=NULL){
-            arr.push_back(node->val);
-            node=node->next;
+        this->head = head;
+        ListNode* node = head;
+        count = 0;
+        while (node != NULL) {
+            count++;
+            node = node->next;
         }
-        
     }
-    
+    int getNodeValue(int kthNode) {
+        ListNode* node = head;
+        while (kthNode > 0) {
+            node = node->next;
+            kthNode--;
+        }
+        return node->val;
+    }
+
     int getRandom() {
-        int n=arr.size();
-        int randomIdx= rand()%n;
-        return arr[randomIdx];
-        
+        // int n=arr.size();
+        int randomIdx = rand() % count;
+        return getNodeValue(randomIdx);
     }
 };
 
